@@ -5,7 +5,7 @@ theme = "minimal"
 
 [params]
     author = "Nikita Voloboev"
-    description = "Building an Open Source Search Engine to [Learn Anything](https://learn-anything.xyz/) with Interactive Mind Maps"
+    description = "Test"
     githubUsername = "nikitavoloboev"
     accent = "red"
     copyright = "Built with 💗 using [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal) theme"
