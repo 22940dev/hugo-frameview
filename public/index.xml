@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikita Voloboev</title>
+    <link>https://learn-anything.xyz/index.xml</link>
+    <description>Recent content on Nikita Voloboev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Built with 💗 using [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal) theme</copyright>
+    <atom:link href="https://learn-anything.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://learn-anything.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn-anything.xyz/about/</guid>
+      <description>&lt;p&gt;📒 I am an undergraduate student at Technical University of Eindhoven, majoring in Computer Science looking for an internship&lt;/p&gt;
+
+&lt;p&gt;🚙 Born in Moscow; currently based in Eindhoven, Netherlands&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://learn-anything.xyz/&#34;&gt;📚 I am creating a search engine for learning any topic on Earth with mind maps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;🚀 With it, I want to &lt;a href=&#34;https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e&#34;&gt;accelerate the way in which people learn&lt;/a&gt; by providing the most efficient paths to learn any topic on Earth&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://learn-anything.xyz/&#34;&gt;search engine&lt;/a&gt; searches through an &lt;a href=&#34;https://github.com/nikitavoloboev/learn-anything&#34;&gt;open database of community curated mind maps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;🖋 I also love writing. You can read all that I have said on &lt;a href=&#34;https://medium.com/@NikitaVoloboev&#34;&gt;Medium&lt;/a&gt; or &lt;a href=&#34;https://my.mindnode.com/2YJ1yeqHkxaBMHKDPC1k2Ripxpx9Ne7ULk4rfh3H#114.2,-459.4,2&#34;&gt;search for the article you want&lt;/a&gt;, perhaps I have written about it&lt;/p&gt;
+
+&lt;p&gt;💡 Aside from this, I am creating a &lt;a href=&#34;https://github.com/nikitavoloboev/crafting-ideas&#34;&gt;social platform&lt;/a&gt; to help nurture and grow ideas with the help of community&lt;/p&gt;
+
+&lt;p&gt;🎆 I am looking for internship and work opportunites for this Summer of 2017 and onwards in web or mobile development. My CV can be found &lt;a href=&#34;https://stackoverflow.com/cv/nikitavoloboev&#34;&gt;online&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;📧 If you are interested in hiring me, please &lt;a href=&#34;mailto:nikita.voloboev@gmail.com&#34;&gt;email me&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;🌐 I often share my thoughts on &lt;a href=&#34;https://twitter.com/nikitavoloboev&#34;&gt;Twitter&lt;/a&gt;. I share my &lt;a href=&#34;https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#137.1,-894.8,2&#34;&gt;code and knowledge&lt;/a&gt; on &lt;a href=&#34;https://github.com/nikitavoloboev&#34;&gt;GitHub&lt;/a&gt; and you can see the infrequent photos I take on &lt;a href=&#34;https://www.instagram.com/nikitavoloboev/&#34;&gt;Instagram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;🍀 If you want to know even more about me, you can &lt;a href=&#34;https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#553.1,-49.5,1&#34;&gt;explore my own personal mind map&lt;/a&gt; or even &lt;a href=&#34;https://github.com/nikitavoloboev/alfred-my-mind&#34;&gt;search through it, if you like&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;💛 You can support what I do on &lt;a href=&#34;http://patreon.com/nikitavoloboev&#34;&gt;Patreon&lt;/a&gt;, Thank you&lt;/p&gt;
+
+&lt;p&gt;💬 Feel free to ask me &lt;a href=&#34;https://github.com/nikitavoloboev/ama/issues/new&#34;&gt;any question you have&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I want to minimise the time it takes to come up with an interesting question to ask and solve&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

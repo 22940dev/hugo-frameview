@@ -1,0 +1,72 @@
+baseURL = "https://learn-anything.xyz/"
+languageCode = "en-us"
+title = "Nikita Voloboev"
+theme = "minimal"
+
+[params]
+    author = "Nikita Voloboev"
+    description = "Building an Open Source Search Engine to [Learn Anything](https://learn-anything.xyz/) with Interactive Mind Maps"
+    githubUsername = "nikitavoloboev"
+    accent = "red"
+    copyright = "Built with 💗 using [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal) theme"
+    showBorder = true
+    backgroundColor = ""
+    font = "Quicksand" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "https://medium.com/@NikitaVoloboev"
+    name = "Blog"
+    weight = 3
+
+[[menu.main]]
+    url = "https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#179.9,-50.7,1"
+    name = "Map"
+    weight = 4
+
+
+[[menu.main]]
+    url = "https://stackoverflow.com/cv/nikitavoloboev"
+    name = "CV"
+    weight = 5
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "https://github.com/nikitavoloboev/"
+    name = "github"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/nikitavoloboev/"
+    name = "twitter"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.instagram.com/nikitavoloboev/"
+    name = "instagram"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/nikitavoloboev/"
+    name = "linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://stackoverflow.com/users/3067664/nikita-voloboev"
+    name = "stack-overflow"
+    weight = 5
+
+[[menu.icon]]
+    url = "mailto:nikita.voloboev@gmail.com"
+    name = "envelope-o"
+    weight = 6
