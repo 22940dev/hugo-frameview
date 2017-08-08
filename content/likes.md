@@ -17,10 +17,10 @@ I think everyone has a choice nowadays of what they can eat and animal suffering
 
 Most notably
 
-- [Alfred](https://learn-anything.xyz/software/tooling/productivity/alfred)
-- [Karabiner](https://learn-anything.xyz/software/tooling/productivity/karabiner)
+- [Alfred](https://www.alfredapp.com/)
+- [Karabiner](https://pqrs.org/osx/karabiner/)
 - [2Do](https://www.2doapp.com/)
-- [VS Code](https://learn-anything.xyz/software/tooling/text-editors/vs-code)
+- [VS Code](https://github.com/Microsoft/vscode)
 - [Safari](http://www.wikiwand.com/en/Safari_(web_browser))
 
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os)
@@ -33,4 +33,6 @@ I try to share my knowledge and experiences by writing about it in my [blog](htt
 
 ## Photos
 
-I really like collecting beautiful photographs and images but also making and creating photographs of my own. Although I haven't had the chance to travel much yet.
+I really like collecting beautiful photographs and images but also making and creating photographs of my own.
+
+Although I haven't had the chance to travel much yet.
