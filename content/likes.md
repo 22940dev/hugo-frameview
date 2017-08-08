@@ -8,8 +8,10 @@ weight = "2"
 +++
 
 ## Animals
- - I have been [vegeterian](https://learn-anything.xyz/philosophy/ethics/veganism) for over 4 years now and it has been one of the best decisions I have made thus far in my life
- - I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided
+
+I have been [vegeterian](https://learn-anything.xyz/philosophy/ethics/veganism) for over 4 years now and it has been one of the best decisions I have made thus far in my life
+
+I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided
 
 ## Great Software
 
