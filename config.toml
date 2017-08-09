@@ -31,10 +31,14 @@ theme = "minimal"
     name = "Map"
     weight = 4
 
-
 [[menu.main]]
     url = "https://stackoverflow.com/cv/nikitavoloboev"
     name = "CV"
+    weight = 5
+
+[[menu.main]]
+    url = "https://github.com/nikitavoloboev/ama/issues/new"
+    name = "Ask"
     weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar
