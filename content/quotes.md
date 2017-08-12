@@ -7,7 +7,7 @@ menu = "main"
 weight = "6"
 +++
 
-#### I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes).
+I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes).
 
 Below are some of my favourite quotes from it that I really love.
 

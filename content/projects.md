@@ -44,6 +44,6 @@ Here are some workflows I made that I use myself daily :
 * [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) : search through any website on the web (the websites searched for can be extended by community)
 
 
-Aside from Alfred I love reading books and learning new and awesome things and [writing about it](https://medium.com/@NikitaVoloboev).
+I also love reading books and learning new and awesome things and [writing about it](https://medium.com/@NikitaVoloboev).
 
 I think companies like [DeepMind](https://deepmind.com), [OpenAI](https://openai.com/), [GitHub](https://github.com/), [Tesla](https://www.tesla.com), [Apple](https://www.apple.com) and [Google](https://www.google.com) do really amazing work and I would love to have my work too make lives of people better.
