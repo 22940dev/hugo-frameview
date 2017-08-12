@@ -4,7 +4,7 @@ page = "static/single.html"
 title = "Likes"
 description = " "
 menu = "main"
-weight = "2"
+weight = "6"
 +++
 
 ## Animals
