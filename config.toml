@@ -24,7 +24,7 @@ theme = "minimal"
 [[menu.main]]
     url = "https://medium.com/@NikitaVoloboev"
     name = "Blog"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     url = "https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#179.9,-50.7,1"

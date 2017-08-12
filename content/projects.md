@@ -4,7 +4,7 @@ page = "static/single.html"
 title = "Projects"
 description = " "
 menu = "main"
-weight = "4"
+weight = "3"
 +++
 
 
@@ -20,7 +20,7 @@ A world where knowledge and knowledge sharing is respected and encouraged and ev
 
 The most awesome thing about this project is that it is run by a community of awesome people and anyone can contribute to making it better for everyone.
 
-# Crafting Ideas
+# [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas)
 
 I have many ideas but little time to implement everything I wish.
 
