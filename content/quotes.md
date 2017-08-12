@@ -23,7 +23,6 @@ And here are some more quotes I really love.
 * He who fears death is a slave of life.
 * The best time to plant a tree was 50 years ago. The second best time is today.
 * When you get the message, hang up the phone.
-* When you get the message, hang up the phone.
 * We are all apprentices in a craft where no one ever becomes a master.
 * Pass it on, .... That’s the game I want you to learn. Pass it on.
 * Mistake only stays a mistake if you don't learn from it
