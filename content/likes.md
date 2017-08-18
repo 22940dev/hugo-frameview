@@ -36,3 +36,10 @@ I try to share my knowledge and experiences by writing about it in my [blog](htt
 I really like collecting beautiful photographs and images but also making and creating photographs of my own.
 
 Although I haven't had the chance to travel much yet.
+
+
+## Privacy
+
+I have switched from using Google to instead using [DuckDuckGo](https://duckduckgo.com) for all the searches I make.
+
+I think it is important to be aware of ways in which companies can collect data about you and ways in which it can be manipulated and used against you.
