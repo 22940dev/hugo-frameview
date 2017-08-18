@@ -61,13 +61,13 @@ theme = "minimal"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/nikitavoloboev/"
-    name = "linkedin"
+    url = "https://stackoverflow.com/users/3067664/nikita-voloboev"
+    name = "stack-overflow"
     weight = 4
 
 [[menu.icon]]
-    url = "https://stackoverflow.com/users/3067664/nikita-voloboev"
-    name = "stack-overflow"
+    url = "https://www.linkedin.com/in/nikitavoloboev/"
+    name = "linkedin"
     weight = 5
 
 [[menu.icon]]
