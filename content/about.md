@@ -23,7 +23,7 @@ The [search engine](https://learn-anything.xyz/) searches through an [open datab
 
 🎆 I am looking for internship and work opportunites for this Summer of 2017 and onwards in web or mobile development. My CV can be found [online](https://stackoverflow.com/cv/nikitavoloboev)
 
-📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@gmail.com)
+📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com)
 
 🌐 I often share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code and knowledge](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#137.1,-894.8,2) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
 

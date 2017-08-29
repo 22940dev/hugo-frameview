@@ -32,5 +32,6 @@ And here are some more quotes I really love.
 * A language isn't something you learn so much as something you join.
 * Write like you speak
 * Everything you can imagine is real.
+* The trick is to combine your waking rational abilities with the infinite possibilities of your dreams.
 * I have no special talents. I am only passionately curious
 * The dose makes the poison.
