@@ -15,13 +15,13 @@ weight = "2"
 
 🚀 With it, I want to [accelerate the way in which people learn](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e) by providing the most efficient paths to learn any topic on Earth
 
-The [search engine](https://learn-anything.xyz/) searches through an [open database of community curated mind maps](https://github.com/nikitavoloboev/learn-anything)
+The [search engine](https://learn-anything.xyz/) searches through an [open database of community curated mind maps](https://github.com/learn-anything/maps)
 
 🖋 I also love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or [search for the article you want](https://my.mindnode.com/2YJ1yeqHkxaBMHKDPC1k2Ripxpx9Ne7ULk4rfh3H#114.2,-459.4,2), perhaps I have written about it
 
 💡 Aside from this, I am creating a [social platform](https://github.com/nikitavoloboev/crafting-ideas) to help nurture and grow ideas with the help of community
 
-🎆 I am looking for internship and work opportunites for this Summer of 2017 and onwards in web or mobile development. My CV can be found [online](https://stackoverflow.com/cv/nikitavoloboev)
+🎆 I am looking for internship and work opportunites in web or mobile development. My CV can be found [online](https://stackoverflow.com/cv/nikitavoloboev)
 
 📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com)
 
