@@ -71,6 +71,11 @@ theme = "minimal"
     weight = 5
 
 [[menu.icon]]
+    url = "https://open.spotify.com/user/nikitavoloboev"
+    name = "spotify"
+    weight = 6
+
+[[menu.icon]]
     url = "mailto:nikita.voloboev@icloud.com"
     name = "envelope-o"
-    weight = 6
+    weight = 7
