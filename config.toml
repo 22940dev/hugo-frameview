@@ -58,17 +58,17 @@ theme = "minimal"
 [[menu.icon]]
     url = "https://open.spotify.com/user/nikitavoloboev"
     name = "spotify"
-    weight = 3
+    weight = 4
 
 [[menu.icon]]
     url = "https://www.instagram.com/nikitavoloboev/"
     name = "instagram"
-    weight = 4
+    weight = 5
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/nikitavoloboev/"
     name = "linkedin"
-    weight = 5
+    weight = 6
 
 [[menu.icon]]
     url = "https://stackoverflow.com/users/3067664/nikita-voloboev"
@@ -76,6 +76,11 @@ theme = "minimal"
     weight = 6
 
 [[menu.icon]]
+    url = "https://telegram.me/nikivi"
+    name = "telegram"
+    weight = 7
+
+[[menu.icon]]
     url = "mailto:nikita.voloboev@icloud.com"
     name = "envelope-o"
-    weight = 7
+    weight = 8
