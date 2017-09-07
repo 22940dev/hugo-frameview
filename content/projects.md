@@ -12,7 +12,7 @@ I am currently working on these projects, sorted by their importance to me :
 
 # [Learn Anything](https://learn-anything.xyz/)
 
-[Learn Anything](https://learn-anything.xyz/) is an Open Source Search Engine to search user curated Mind Maps of links and resources to learn anything in the most efficient way.
+[Learn Anything](https://learn-anything.xyz/) is an Open Source Search Engine that searches user curated Mind Maps of links and resources to learn anything in the most efficient way.
 
 I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you. A world where everyone knows a programming language and can automate routine and boring things so to not ever do them again.
 
