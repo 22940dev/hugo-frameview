@@ -42,8 +42,6 @@ Although I haven't had the chance to travel much yet.
 I really love listening to new and interesting music and I curate some playlists of music I like on [Youtube](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) and [Spotify](https://open.spotify.com/user/nikitavoloboev).
 ## Privacy
 
-I have switched from using Google to instead using [DuckDuckGo](https://duckduckgo.com) and [StartPage](https://www.startpage.com) for all the searches I make.
-
-Nor do I use Facebook, WhatsApp as I don't agree with its stance on collecting as much of one's personal data as possible.
+I do not use Facebook, WhatsApp as I don't agree with its stance on collecting as much of one's personal data as possible.
 
 I think it is important to be aware of ways in which companies can collect data about you and ways in which it can be manipulated and used against you.
