@@ -66,21 +66,26 @@ theme = "minimal"
     weight = 4
 
 [[menu.icon]]
+    url = "https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw"
+    name = "youtube"
+    weight = 5
+
+[[menu.icon]]
     url = "https://www.linkedin.com/in/nikitavoloboev/"
     name = "linkedin"
-    weight = 5
+    weight = 6
 
 [[menu.icon]]
     url = "https://stackoverflow.com/users/3067664/nikita-voloboev"
     name = "stack-overflow"
-    weight = 6
+    weight = 7
 
 [[menu.icon]]
     url = "https://telegram.me/nikivi"
     name = "telegram"
-    weight = 7
+    weight = 8
 
 [[menu.icon]]
     url = "mailto:nikita.voloboev@icloud.com"
     name = "envelope-o"
-    weight = 8
+    weight = 9
