@@ -27,7 +27,7 @@ theme = "minimal"
     weight = 4
 
 [[menu.main]]
-    url = "https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#179.9,-50.7,1"
+    url = "https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#-76.9,-9.9,1"
     name = "My Mind"
     weight = 5
 
