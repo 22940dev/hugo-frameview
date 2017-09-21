@@ -8,12 +8,12 @@
     <language>en-us</language>
     <copyright>Built with 💗 using [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal) theme</copyright>
     <atom:link href="https://learn-anything.xyz/index.xml" rel="self" type="application/rss+xml" />
-    
+
     <item>
       <title>About</title>
       <link>https://learn-anything.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://learn-anything.xyz/about/</guid>
       <description>&lt;p&gt;📒 I am an undergraduate student at Technical University of Eindhoven, majoring in Computer Science looking for an internship&lt;/p&gt;
 
@@ -46,6 +46,6 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>
