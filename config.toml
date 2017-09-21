@@ -32,14 +32,20 @@ theme = "minimal"
     weight = 5
 
 [[menu.main]]
-    url = "https://stackoverflow.com/cv/nikitavoloboev"
-    name = "CV"
-    weight = 8
+    url = "https://github.com/nikitavoloboev/my-knowledge"
+    name = "Knowledge"
+    weight = 6
 
 [[menu.main]]
     url = "https://github.com/nikitavoloboev/ama/issues/new"
     name = "Ask"
     weight = 7
+
+[[menu.main]]
+    url = "https://stackoverflow.com/cv/nikitavoloboev"
+    name = "CV"
+    weight = 8
+
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
