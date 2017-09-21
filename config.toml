@@ -37,11 +37,6 @@ theme = "minimal"
     weight = 6
 
 [[menu.main]]
-    url = "/likes.md"
-    name = "Likes"
-    weight = 7
-
-[[menu.main]]
     url = "https://github.com/nikitavoloboev/ama/issues/new"
     name = "Ask"
     weight = 8
