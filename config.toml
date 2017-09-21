@@ -32,7 +32,7 @@ theme = "minimal"
     weight = 5
 
 [[menu.main]]
-    url = "https://github.com/nikitavoloboev/my-knowledge"
+    url = "https://github.com/nikitavoloboev/knowledge"
     name = "Knowledge"
     weight = 6
 
