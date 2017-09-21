@@ -24,8 +24,17 @@ theme = "minimal"
 [[menu.main]]
     url = "https://medium.com/@NikitaVoloboev"
     name = "Blog"
-    weight = 2
+    weight = 4
 
+[[menu.main]]
+    url = "https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#179.9,-50.7,1"
+    name = "My Mind"
+    weight = 5
+
+[[menu.main]]
+    url = "https://github.com/nikitavoloboev/my-knowledge"
+    name = "Knowledge"
+    weight = 6
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used

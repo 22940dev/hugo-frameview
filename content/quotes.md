@@ -4,7 +4,7 @@ page = "static/single.html"
 title = "Quotes"
 description = " "
 menu = "main"
-weight = "6"
+weight = "8"
 +++
 
 I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes).
