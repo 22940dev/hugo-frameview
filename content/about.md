@@ -11,7 +11,7 @@ weight = "2"
 
 🚙 Born in Moscow; currently based in Eindhoven, Netherlands
 
-[📚 I am creating a search engine for learning any topic on Earth with mind maps](https://learn-anything.xyz/)
+[📚 I am creating a Search Engine for learning any topic on Earth with mind maps](https://learn-anything.xyz/)
 
 🚀 With it, I want to [accelerate the way in which people learn](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e) by providing the most efficient paths to learn any topic on Earth
 
@@ -25,7 +25,9 @@ The [search engine](https://learn-anything.xyz/) searches through an [open datab
 
 📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com)
 
-🌐 I often share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code and knowledge](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#137.1,-894.8,2) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
+🌐 I often share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code and knowledge](https://github.com/nikitavoloboev/my-knowledge) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
+
+🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
 
 🍀 If you want to know even more about me, you can [explore my own personal mind map](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#553.1,-49.5,1) or even [search through it, if you like](https://github.com/nikitavoloboev/alfred-my-mind)
 
