@@ -37,14 +37,19 @@ theme = "minimal"
     weight = 6
 
 [[menu.main]]
+    url = "/likes.md"
+    name = "Likes"
+    weight = 7
+
+[[menu.main]]
     url = "https://github.com/nikitavoloboev/ama/issues/new"
     name = "Ask"
-    weight = 7
+    weight = 8
 
 [[menu.main]]
     url = "https://stackoverflow.com/cv/nikitavoloboev"
     name = "CV"
-    weight = 8
+    weight = 9
 
 
 # Social icons to be shown on the right-hand side of the navigation bar
