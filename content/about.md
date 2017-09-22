@@ -15,7 +15,7 @@ weight = "2"
 
 🚀 With it, I want to [accelerate the way in which people learn](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e) by providing the most efficient paths for learning anything
 
-The [search engine](https://learn-anything.xyz/) searches through an [open database of community curated mind maps](https://github.com/learn-anything/maps)
+🗺 The [search engine](https://learn-anything.xyz/) searches through an [open database of community curated mind maps](https://github.com/learn-anything/maps)
 
 🖋 I also love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or [search for the article you want](https://my.mindnode.com/2YJ1yeqHkxaBMHKDPC1k2Ripxpx9Ne7ULk4rfh3H#211.9,-478.2,-1), perhaps I have written about it
 
