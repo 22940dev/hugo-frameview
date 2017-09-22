@@ -27,13 +27,13 @@ theme = "minimal"
     weight = 4
 
 [[menu.main]]
-    url = "https://nikitavoloboev.gitbooks.io/knowledge/content/"
-    name = "My Knowledge"
+    url = "https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3"
+    name = "My Mind"
     weight = 5
 
 [[menu.main]]
-    url = "https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3"
-    name = "My Mind"
+    url = "https://nikitavoloboev.gitbooks.io/knowledge/content/"
+    name = "Knowledge"
     weight = 6
 
 [[menu.main]]
