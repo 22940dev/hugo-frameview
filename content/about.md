@@ -13,7 +13,7 @@ weight = "2"
 
 [📚 I am creating a Search Engine for learning any topic on Earth with interactive mind maps](https://learn-anything.xyz/)
 
-🚀 With it, I want to [accelerate the way in which people learn](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e) by providing the most efficient paths to learn any topic on Earth
+🚀 With it, I want to [accelerate the way in which people learn](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e) by providing the most efficient paths for learning anything
 
 The [search engine](https://learn-anything.xyz/) searches through an [open database of community curated mind maps](https://github.com/learn-anything/maps)
 
