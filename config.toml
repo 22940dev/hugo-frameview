@@ -26,6 +26,7 @@ theme = "minimal"
     name = "Blog"
     weight = 4
 
+[[menu.main]]
     url = "https://nikitavoloboev.gitbooks.io/knowledge/content/"
     name = "My Knowledge"
     weight = 5
