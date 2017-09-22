@@ -29,20 +29,27 @@ I hope to build my own app or tool that will join this list soon too.
 
 ## Writing
 
-I try to share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev).
+I try to share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [written knowledge base](https://nikitavoloboev.gitbooks.io/knowledge/content/) in the spirit of continuous learning
 
 ## Photos
 
-I really like collecting beautiful photographs and images but also making and creating photographs of my own.
+I really like [collecting beautiful photographs and images](https://nikivii.imgur.com) but also [making and creating photographs](https://www.instagram.com/nikitavoloboev/) of my own.
 
 Although I haven't had the chance to travel much yet.
 
 ## Music
 
 I really love listening to new and interesting music and I curate some playlists of music I like on [Youtube](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) and [Spotify](https://open.spotify.com/user/nikitavoloboev).
+## Automation
+
+I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
+
+Of course automation is not all and everything that I do but it greatly increases my satisfaction and happiness as I love focusing on solving problems and making new and interesting things rather than repeating myself over and over again.
+
+
 ## Privacy
 
-I do not use Facebook, WhatsApp as I don't agree with its stance on collecting as much of one's personal data as possible.
+I limit my use Facebook, WhatsApp as I don't agree with its stance on collecting as much of one's personal data as possible.
 
 I think it is important to be aware of ways in which companies can collect data about you and ways in which it can be manipulated and used against you.
 
