@@ -11,7 +11,7 @@ weight = "2"
 
 🚙 Born in Moscow; currently based in Eindhoven, Netherlands
 
-[📚 I am creating a Search Engine for learning any topic on Earth with mind maps](https://learn-anything.xyz/)
+[📚 I am creating a Search Engine for learning any topic on Earth with interactive mind maps](https://learn-anything.xyz/)
 
 🚀 With it, I want to [accelerate the way in which people learn](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e) by providing the most efficient paths to learn any topic on Earth
 
@@ -25,17 +25,17 @@ The [search engine](https://learn-anything.xyz/) searches through an [open datab
 
 📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com)
 
-🌐 I often share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code and knowledge](https://github.com/nikitavoloboev/my-knowledge) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
+🌐 I often share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) and [knowledge](https://github.com/nikitavoloboev/my-knowledge) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
 
-🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
+🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share my [music playlists](https://open.spotify.com/user/nikitavoloboev)
 
 🍀 If you want to know even more about me, you can [explore my own personal mind map](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3) or even [search through it, if you like](https://github.com/nikitavoloboev/alfred-my-mind)
 
 💛 You can support what I do on [Patreon](http://patreon.com/nikitavoloboev), Thank you
 
-💬 Feel free to ask me [any question you have](https://github.com/nikitavoloboev/ama/issues/new)
+💬 Feel free to ask me [any question you have](https://github.com/nikitavoloboev/ama/issues/new) or just [send me a message](https://telegram.me/nikivi] if you want to make a new friend
 
-* I want to minimise the time it takes to come up with an interesting question to ask and solve
+* **I want to minimise the time it takes to come up with an interesting question to ask and solve**
 
 
 
