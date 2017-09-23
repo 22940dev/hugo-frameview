@@ -27,7 +27,7 @@ weight = "2"
 
 🌐 I often share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) and [knowledge](https://github.com/nikitavoloboev/my-knowledge) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
 
-🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share my [music playlists](https://open.spotify.com/user/nikitavoloboev)
+🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw), share my [music playlists](https://open.spotify.com/user/nikitavoloboev), [write books](https://nikitavoloboev.gitbooks.io/macos-automation-guide/content/) and share [everything I know](https://nikitavoloboev.gitbooks.io/knowledge/content/)
 
 🍀 If you want to know even more about me, you can [explore my own personal mind map](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3) or even [search through it, if you like](https://github.com/nikitavoloboev/alfred-my-mind)
 
