@@ -49,7 +49,7 @@ Of course automation is not all and everything that I do but it greatly increase
 
 ## Privacy
 
-I limit my use Facebook, WhatsApp as I don't agree with its stance on collecting as much of one's personal data as possible.
+I limit my use Facebook, WhatsApp as I don't agree with their stance on collecting as much of one's personal data as possible.
 
 I think it is important to be aware of ways in which companies can collect data about you and ways in which it can be manipulated and used against you.
 
