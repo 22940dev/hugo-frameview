@@ -40,18 +40,34 @@ Although I haven't had the chance to travel much yet.
 ## Music
 
 I really love listening to new and interesting music and I curate some playlists of music I like on [Youtube](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) and [Spotify](https://open.spotify.com/user/nikitavoloboev).
-## Automation
-
-I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
-
-Of course automation is not all and everything that I do but it greatly increases my satisfaction and happiness as I love focusing on solving problems and making new and interesting things rather than repeating myself over and over again.
-
 
 ## Privacy
 
 I limit my use Facebook, WhatsApp as I don't agree with their stance on collecting as much of one's personal data as possible.
 
 I think it is important to be aware of ways in which companies can collect data about you and ways in which it can be manipulated and used against you.
+
+## Sharing
+
+Although I do like my privacy, I also like sharing things and I am really open about most things I do and like as can be seen in this page already.
+
+I share all my knowledge in a constantly wiki [here](https://nikitavoloboev.gitbooks.io/knowledge/content/) as well as me sharing my personal mind maps with links and notes [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3).
+
+I share most of the code I write and release it as Open Source for all other people to use and reuse it as they like.
+
+And I also love tracking things for myself, like :
+
+- [books](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
+- [movies](https://letterboxd.com/NikitaVoloboev/)
+- [TV series and episodes](https://trakt.tv/users/nikivi)
+- [music I listen to](https://www.last.fm/user/playfullyExist)
+- [games I liked](https://www.grouvee.com/user/nikivi/)
+
+## Automation
+
+I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
+
+Of course automation is not all and everything that I do but it greatly increases my satisfaction and happiness as I love focusing on solving problems and making new and interesting things rather than repeating myself over and over again.
 
 ## Quotes
 
