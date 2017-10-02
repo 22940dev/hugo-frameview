@@ -17,7 +17,7 @@ weight = "2"
 
 🗺 The [search engine](https://learn-anything.xyz/) searches through an [open database of community curated mind maps](https://github.com/learn-anything/maps)
 
-🖋 I also love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or [search for the article you want](https://my.mindnode.com/2YJ1yeqHkxaBMHKDPC1k2Ripxpx9Ne7ULk4rfh3H#211.9,-478.2,-1), perhaps I have written about it
+🖋 I also love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or you can take a look at my [personal knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) where I share everything I know.
 
 💡 Aside from this, I am creating a [social platform](https://github.com/nikitavoloboev/crafting-ideas) to help nurture and grow ideas with the help of community
 
@@ -25,9 +25,9 @@ weight = "2"
 
 📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com)
 
-🌐 I often share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) and [knowledge](https://github.com/nikitavoloboev/my-knowledge) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
+🌐 I often share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) and [knowledge](https://nikitavoloboev.gitbooks.io/knowledge/content/) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
 
-🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw), share my [music playlists](https://open.spotify.com/user/nikitavoloboev), [write books](https://nikitavoloboev.gitbooks.io/macos-automation-guide/content/) and share [everything I know](https://nikitavoloboev.gitbooks.io/knowledge/content/)
+🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share my [music playlists](https://open.spotify.com/user/nikitavoloboev)
 
 🍀 If you want to know even more about me, you can [explore my own personal mind map](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3) or even [search through it, if you like](https://github.com/nikitavoloboev/alfred-my-mind)
 
