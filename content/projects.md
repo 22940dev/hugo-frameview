@@ -12,7 +12,7 @@ I am currently working on these projects, sorted by their importance to me :
 
 # [Learn Anything](https://learn-anything.xyz/)
 
-[Learn Anything](https://learn-anything.xyz/) is an Open Source Search Engine that searches user curated Mind Maps of links and resources to learn anything in the most efficient way.
+[Learn Anything](https://learn-anything.xyz/) is an Open Source Website that searches user curated Mind Maps of links and resources to learn anything in the most efficient way.
 
 I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you. A world where everyone knows a programming language and can automate routine and boring things so to not ever do them again.
 
@@ -44,5 +44,7 @@ Here are some workflows I made that I use myself daily :
 * [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) : search through any website on the web (the websites searched for can be extended by community)
 
 I also love reading books and learning new and awesome things and writing about it either in my [blog](https://medium.com/@NikitaVoloboev) or in my [wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/).
+
+[Here](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) is everything I have shared on GitHub thus far.
 
 I think companies like [DeepMind](https://deepmind.com), [OpenAI](https://openai.com/), [GitHub](https://github.com/), [Tesla](https://www.tesla.com), [Apple](https://www.apple.com) and [Google](https://www.google.com) do really amazing work and I would love to have my work too make lives of people better.
