@@ -45,6 +45,6 @@ Here are some workflows I made that I use myself daily :
 
 I also love reading books and learning new and awesome things and writing about it either in my [blog](https://medium.com/@NikitaVoloboev) or in my [wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/).
 
-[Here](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) is everything I have shared on GitHub thus far.
+And [here](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) you can find everything I have shared on GitHub thus far.
 
 I think companies like [DeepMind](https://deepmind.com), [OpenAI](https://openai.com/), [GitHub](https://github.com/), [Tesla](https://www.tesla.com), [Apple](https://www.apple.com) and [Google](https://www.google.com) do really amazing work and I would love to have my work too make lives of people better.
