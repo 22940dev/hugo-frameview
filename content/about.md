@@ -17,7 +17,7 @@ weight = "2"
 
 🗺 The [search engine](https://learn-anything.xyz/) searches through an [open database of community curated mind maps](https://github.com/learn-anything/maps)
 
-🖋 I also love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or you can take a look at my [personal knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) where I share everything I know.
+🖋 I also love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or take a look at my [personal knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) where I share everything I know.
 
 💡 Aside from this, I am creating a [social platform](https://github.com/nikitavoloboev/crafting-ideas) to help nurture and grow ideas with the help of community
 
