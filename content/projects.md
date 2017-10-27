@@ -11,7 +11,6 @@ weight = "3"
 I am currently working on these projects, sorted by their importance to me :
 
 # [Learn Anything](https://learn-anything.xyz/)
-
 [Learn Anything](https://learn-anything.xyz/) is an Open Source Website that searches user curated Mind Maps of links and resources to learn anything in the most efficient way.
 
 I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you. A world where everyone knows a programming language and can automate routine and boring things so to not ever do them again.
@@ -21,7 +20,6 @@ A world where knowledge and knowledge sharing is respected and encouraged and ev
 The most awesome thing about this project is that it is run by a community of awesome people and anyone can contribute to making it better for everyone.
 
 # [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas)
-
 I have many ideas but little time to implement everything I wish.
 
 Ideas can change the world. In cases you have an awesome idea but lack the skills or funding for it, there is not a lot you can do outside from working on it on your own, asking your friends or asking for help on the internet.
@@ -33,8 +31,7 @@ This platform's features should focus on minimising the time that it takes from 
 The website is fully [Open Source](https://github.com/nikitavoloboev/crafting-ideas) so anyone can help to join and build this awesome thing together.
 
 
-## Other projects
-
+## Alfred Workflows
 Aside from these two projects, I really like programming in Go and making Alfred workflows.
 
 Here are some workflows I made that I use myself daily :
@@ -43,8 +40,7 @@ Here are some workflows I made that I use myself daily :
 * [Alfred Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) : search through a big list of web submissions (creating reddit threads, stack exchange posts and more)
 * [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) : search through any website on the web (the websites searched for can be extended by community)
 
-I also love reading books and learning new and awesome things and writing about it either in my [blog](https://medium.com/@NikitaVoloboev) or in my [wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/).
-
-And [here](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) you can find everything I have shared on GitHub thus far.
+## Other projects
+[Here](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) you can find other things I have shared and made.
 
 I think companies like [DeepMind](https://deepmind.com), [OpenAI](https://openai.com/), [GitHub](https://github.com/), [Tesla](https://www.tesla.com), [Apple](https://www.apple.com) and [Google](https://www.google.com) do really amazing work and I would love to have my work too make lives of people better.

@@ -8,27 +8,22 @@ weight = "7"
 +++
 
 ## Animals
-
 I have been [vegeterian](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) for over 4 years now and it has been one of the best decisions I have made thus far in my life
 
 I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided
 
 ## Writing
-
 I try to share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [written knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) in the spirit of continuous learning
 
 ## Music
-
 I really love listening to new and interesting music and I curate some playlists of music I like on [Youtube](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) and [Spotify](https://open.spotify.com/user/nikitavoloboev).
 
 ## Photos
-
 I really like [collecting beautiful photographs and images](https://nikivii.imgur.com) but also [making and creating photographs](https://www.instagram.com/nikitavoloboev/) of my own.
 
 Although I haven't had the chance to travel much yet.
 
 ## Great Software
-
 Most notably
 
 - [Alfred](https://www.alfredapp.com/)
@@ -42,19 +37,16 @@ But there is [many more](https://github.com/nikitavoloboev/my-mac-os)
 I hope to build my own app or tool that will join this list soon too.
 
 ## Automation
-
 I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
 
 Of course automation is not all and everything that I do but it greatly increases my satisfaction and happiness as I love focusing on solving problems and making new and interesting things rather than repeating myself over and over again.
 
 ## Privacy
-
 I limit my use Facebook, WhatsApp as I don't agree with their stance on collecting as much of one's personal data as possible.
 
 I think it is important to be aware of ways in which companies can collect data about you and ways in which it can be manipulated and used against you.
 
 ## Sharing
-
 Although I do like my privacy, I also like sharing things and I am really open about most things I do and like as can be seen in this page already.
 
 I share all my knowledge in a constantly updated wiki [here](https://nikitavoloboev.gitbooks.io/knowledge/content/) as well as me sharing my personal mind maps with links and notes [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3).
@@ -71,7 +63,6 @@ And I also love tracking things for myself, like :
 
 
 ## Quotes
-
 I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes).
 
 Below are some of my favourite quotes from it that I really love.
