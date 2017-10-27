@@ -37,7 +37,7 @@ theme = "minimal"
     weight = 6
 
 [[menu.main]]
-    url = "https://github.com/nikitavoloboev/ama/issues/new"
+    url = "https://github.com/nikitavoloboev/ama"
     name = "Ask"
     weight = 8
 
