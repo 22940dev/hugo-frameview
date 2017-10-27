@@ -80,12 +80,12 @@ theme = "minimal"
     weight = 5
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/nikitavoloboev/"
-    name = "linkedin"
+    url = "https://www.twitch.tv/nikiivi"
+    name = "twitch"
     weight = 6
 
 [[menu.icon]]
-    url = "https://stackoverflow.com/users/3067664/nikita-voloboev"
+    url = "https://stackoverflow.com/users/3067664/nikivi?tab=profile"
     name = "stack-overflow"
     weight = 7
 
