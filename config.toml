@@ -70,13 +70,13 @@ theme = "minimal"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.twitch.tv/nikiivi"
-    name = "twitch"
+    url = "https://www.instagram.com/nikitavoloboev/"
+    name = "instagram"
     weight = 4
 
 [[menu.icon]]
-    url = "https://www.instagram.com/nikitavoloboev/"
-    name = "instagram"
+    url = "https://www.twitch.tv/nikiivi"
+    name = "twitch"
     weight = 5
 
 [[menu.icon]]
