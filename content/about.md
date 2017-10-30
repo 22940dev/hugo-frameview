@@ -7,7 +7,7 @@ menu = "main"
 weight = "2"
 +++
 
-👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) things I know with the world
+👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) things I have built with the world
 
 🚙 Born in Moscow; currently based in Eindhoven, Netherlands
 
