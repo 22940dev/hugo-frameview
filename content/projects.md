@@ -9,7 +9,7 @@ weight = "3"
 
 I am currently working and focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/).
 
-I am also continuously [learning](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Learning.html), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Reading.html) and writing various tools and [Alfred workflows](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/alfred/alfred-workflows.html) for my own personal productivity.
+I am continuously [learning](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Learning.html), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Reading.html) and writing various tools and [Alfred workflows](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/alfred/alfred-workflows.html) for my own personal productivity.
 
 My current and past projects include :
 
