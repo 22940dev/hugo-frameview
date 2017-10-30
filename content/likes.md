@@ -8,12 +8,12 @@ weight = "7"
 +++
 
 ## Animals
-I have been [vegeterian](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) for over 4 years now and it has been one of the best decisions I have made thus far in my life
+I have been [vegeterian](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) for over 4 years now and it has been one of the best decisions I have made thus far in my life.
 
-I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided
+I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
 
 ## Writing
-I try to share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [written knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) in the spirit of continuous learning
+I try to share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [written knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) in the spirit of continuous learning.
 
 ## Music
 I really love listening to new and interesting music and I curate some playlists of music I like on [Youtube](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) and [Spotify](https://open.spotify.com/user/nikitavoloboev).
@@ -30,7 +30,7 @@ Most notably
 - [VS Code](https://github.com/Microsoft/vscode)
 - [Safari](http://www.wikiwand.com/en/Safari_(web_browser))
 
-But there is [many more](https://github.com/nikitavoloboev/my-mac-os)
+But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
 
 I hope to build my own app or tool that will join this list soon too.
 
