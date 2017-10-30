@@ -47,20 +47,18 @@ I limit my use Facebook, WhatsApp as I don't agree with their stance on collecti
 I think it is important to be aware of ways in which companies can collect data about you and ways in which it can be manipulated and used against you.
 
 ## Sharing
-Although I do like my privacy, I also like sharing things and I am really open about most things I do and like as can be seen in this page already.
+Although I do like my privacy, I also really [love sharing things](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) I make and I am really open about most things I do and like as can be seen in this page already.
 
-I share all my knowledge in a constantly updated wiki [here](https://nikitavoloboev.gitbooks.io/knowledge/content/) as well as me sharing my personal mind maps with links and notes [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3).
+I share all my knowledge in a constantly updated wiki [here](https://nikitavoloboev.gitbooks.io/knowledge/content/).
 
-I share most of the code I write and release it as Open Source for all other people to use and reuse it as they like.
+I share most of the code I write and [release it as Open Source](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) for all other people to use and reuse it as they like.
 
 And I also love tracking things for myself, like :
-
 - [books](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
 - [movies](https://letterboxd.com/NikitaVoloboev/)
 - [TV series and episodes](https://trakt.tv/users/nikivi)
 - [music I listen to](https://www.last.fm/user/playfullyExist)
 - [games I liked](https://www.grouvee.com/user/nikivi/)
-
 
 ## Quotes
 I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes).
