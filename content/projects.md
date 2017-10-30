@@ -14,8 +14,6 @@ I am also continuously [learning](https://nikitavoloboev.gitbooks.io/knowledge/c
 My current and past projects include :
 
 ## [Learn Anything](https://learn-anything.xyz/)
-<img src="https://i.imgur.com/8z8wohH.png" width="400" alt="img">
-
 [Learn Anything](https://learn-anything.xyz/) is an Open Source Website that searches user curated Mind Maps of links and resources to learn anything in the most efficient way.
 
 I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you. A world where everyone knows a programming language and can automate routine and boring things so to not ever do them again.
