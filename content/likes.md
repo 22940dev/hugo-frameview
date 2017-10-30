@@ -21,11 +21,8 @@ I really love listening to new and interesting music and I curate some playlists
 ## Photos
 I really like [collecting beautiful photographs and images](https://nikivii.imgur.com) but also [making and creating photographs](https://www.instagram.com/nikitavoloboev/) of my own.
 
-Although I haven't had the chance to travel much yet.
-
 ## Great Software
 Most notably
-
 - [Alfred](https://www.alfredapp.com/)
 - [Karabiner](https://pqrs.org/osx/karabiner/)
 - [2Do](https://www.2doapp.com/)
@@ -48,8 +45,6 @@ I think it is important to be aware of ways in which companies can collect data 
 
 ## Sharing
 Although I do like my privacy, I also really [love sharing things](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) I make and I am really open about most things I do and like as can be seen in this page already.
-
-I share all my knowledge in a constantly updated wiki [here](https://nikitavoloboev.gitbooks.io/knowledge/content/).
 
 I share most of the code I write and [release it as Open Source](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) for all other people to use and reuse it as they like.
 

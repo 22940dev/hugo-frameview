@@ -7,10 +7,15 @@ menu = "main"
 weight = "3"
 +++
 
+I am currently working and focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/).
 
-I am currently working on these projects, sorted by their importance to me :
+I am also continuously [learning](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Learning.html), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Reading.html) and writing various tools and [Alfred workflows](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/alfred/alfred-workflows.html) for my own personal productivity.
 
-# [Learn Anything](https://learn-anything.xyz/)
+My current and past projects include :
+
+## [Learn Anything](https://learn-anything.xyz/)
+<img src="https://i.imgur.com/8z8wohH.png" width="400" alt="img">
+
 [Learn Anything](https://learn-anything.xyz/) is an Open Source Website that searches user curated Mind Maps of links and resources to learn anything in the most efficient way.
 
 I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you. A world where everyone knows a programming language and can automate routine and boring things so to not ever do them again.
@@ -19,7 +24,7 @@ A world where knowledge and knowledge sharing is respected and encouraged and ev
 
 The most awesome thing about this project is that it is run by a community of awesome people and anyone can contribute to making it better for everyone.
 
-# [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas)
+## [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas)
 I have many ideas but little time to implement everything I wish.
 
 Ideas can change the world. In cases you have an awesome idea but lack the skills or funding for it, there is not a lot you can do outside from working on it on your own, asking your friends or asking for help on the internet.
@@ -42,5 +47,3 @@ Here are some workflows I made that I use myself daily :
 
 ## Other projects
 [Here](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) you can find other things I have shared and made.
-
-I think companies like [DeepMind](https://deepmind.com), [OpenAI](https://openai.com/), [GitHub](https://github.com/), [Tesla](https://www.tesla.com), [Apple](https://www.apple.com) and [Google](https://www.google.com) do really amazing work and I would love to have my work too make lives of people better.
