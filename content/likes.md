@@ -81,7 +81,41 @@ And here are some more quotes I really love.
 * The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else’s highlight reel.
 * A language isn't something you learn so much as something you join.
 * Write like you speak
+* Never use a long word when a short one will do.
 * Everything you can imagine is real.
+* Design is not just what it looks like and feels like. Design is how it works.
+* The details are not the details. They make the design.
 * The trick is to combine your waking rational abilities with the infinite possibilities of your dreams.
-* I have no special talents. I am only passionately curious
+* I have no special talents. I am only passionately curious.
+* We're only visitors in this life after all. Might as well be humble and act respectfully.
+* Life's about the journey not the destination. 
+* To attain knowledge, add things everyday. To attain wisdom, remove things every day.
+* Happiness is the absence of striving for happiness.
+* Mistakes are the portals of discovery.
+* When I let go of what I am, I become what I might be.
+* Empower people. Embrace change. Eliminate waste.
+* Focus is a matter of deciding what not to do.
+* Are you moving one step in 20 directions or 20 steps in one direction?
+* Knowledge means knowing where it's written down.
+* An unexamined life is not worth living.
+* You can’t be free if you judge people
+* The less I needed, the better I felt.
+* It’s not about having time, it’s about making time.
+* If you don’t know where you’re going, any road will get you there.
+* For a long time it seemed to me that real life was about to begin, but there was always some obstacle in the way. Something had to be got through first, some unfinished business; time still to be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life.
+* There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self.
+* Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
+* Only the shaman knows that culture is a game. Everyone else takes it seriously. That’s how he can do his magic.
 * The dose makes the poison.
+* Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
+* A programmer will be able to understand a problem in full only when he has solved it at least once.
+* One of the hardest decisions you’ll ever face in life is choosing whether to walk away or try harder.
+* If I have to do the same thing twice, I'm doing something wrong.
+* Any sufficiently advanced software is indistinguishable from magic.
+* People have lot invested in this ride.
+* You are an extra in everyone else's movie.
+* Dying is but a moment.
+* Thoughts become words, words become actions.
+* These are all just metaphors for something that simply cannot be put into words.
+* Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
+* So it goes. 
