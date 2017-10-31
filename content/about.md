@@ -11,7 +11,7 @@ weight = "2"
 
 🚙 Born in Moscow; currently based in Eindhoven, Netherlands.
 
-🔭 I am creating an [Open Source Website](https://github.com/learn-anything/learn-anything) for [Learning any topic on Earth with Interactive Mind Maps](https://learn-anything.xyz/).
+🔭 I am creating an [Open Source Website](https://github.com/learn-anything/learn-anything) for [learning any topic on Earth with Interactive Mind Maps](https://learn-anything.xyz/).
 
 🚀 With it, I want to [accelerate the way in which people learn](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e) by providing the most efficient paths for learning anything.
 
