@@ -17,7 +17,7 @@ weight = "2"
 
 🖋 I also love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or take a look at my [constantly expanding personal knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) where I share everything I know.
 
-🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) and [knowledge](https://nikitavoloboev.gitbooks.io/knowledge/content/) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
+🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
 
 🎥 And I make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw), share my [music playlists](https://nikitavoloboev.gitbooks.io/knowledge/content/music/music-plays.html) and occasionally [stream myself coding](https://www.twitch.tv/nikiivi).
 
