@@ -17,11 +17,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://learn-anything.xyz/about/</guid>
-      <description>📒 I am an undergraduate student at Technical University of Eindhoven, majoring in Computer Science looking for an internship
-🚙 Born in Moscow; currently based in Eindhoven, Netherlands
-📚 I am creating a Search Engine for learning any topic on Earth with interactive mind maps
-🚀 With it, I want to accelerate the way in which people learn by providing the most efficient paths for learning anything
-🗺 The search engine searches through an open database of community curated mind maps</description>
+      <description>👋 I love making and sharing things I have built with the world.
+🚙 Born in Moscow; currently based in Eindhoven, Netherlands.
+🔭 I am creating an Open Source Website for learning any topic on Earth with Interactive Mind Maps.
+🚀 With it, I want to accelerate the way in which people learn by providing the most efficient paths for learning anything.
+🖋 I also love writing. You can read all that I have said on Medium or take a look at my constantly expanding personal knowledge wiki where I share everything I know.</description>
     </item>
     
     <item>
@@ -30,9 +30,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://learn-anything.xyz/projects/</guid>
-      <description>I am currently working on these projects, sorted by their importance to me :
-Learn Anything Learn Anything is an Open Source Search Engine that searches user curated Mind Maps of links and resources to learn anything in the most efficient way.
-I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you.</description>
+      <description>I am currently working and focusing my time on making and improving Learn Anything.
+I am continuously learning, reading books and writing various tools and Alfred workflows for my own personal productivity.
+My current and past projects include :
+Learn Anything Learn Anything is an Open Source Website that searches user curated Mind Maps of links and resources to learn anything in the most efficient way.
+I genuinely believe it can change the world for the better.</description>
     </item>
     
     <item>
@@ -41,9 +43,9 @@ I genuinely believe it can change the world for the better. Imagine a world wher
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://learn-anything.xyz/likes/</guid>
-      <description>Animals I have been vegeterian for over 4 years now and it has been one of the best decisions I have made thus far in my life
-I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided
-Writing I try to share my knowledge and experiences by writing about it in my blog and I maintain my own written knowledge wiki in the spirit of continuous learning</description>
+      <description>Animals I have been vegeterian for over 4 years now and it has been one of the best decisions I have made thus far in my life.
+I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
+Writing I try to share my knowledge and experiences by writing about it in my blog and I maintain my own written knowledge wiki in the spirit of continuous learning.</description>
     </item>
     
   </channel>
