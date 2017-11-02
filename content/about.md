@@ -33,7 +33,7 @@ weight = "2"
 
 💬 Feel free to ask me [any question you have](https://github.com/nikitavoloboev/ama/issues/new) or just [send me a message](https://telegram.me/nikivi) if you want to make a new friend.
 
-* **I want to minimise the time it takes to come up with an interesting question to ask and solve**
+**I want to minimise the time it takes to come up with an interesting question to ask and solve**
 
 
 
