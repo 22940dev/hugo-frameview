@@ -51,6 +51,7 @@ Although I do like my privacy, I also really [love sharing things](https://nikit
 I share most of the code I write and [release it as Open Source](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) for all other people to use and reuse it as they like.
 
 And I also love tracking things for myself, like :
+
 - [books](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
 - [movies](https://letterboxd.com/NikitaVoloboev/)
 - [TV series and episodes](https://trakt.tv/users/nikivi)
