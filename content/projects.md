@@ -7,9 +7,9 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently working and focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/).
+I am currently working and focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/), sharing everything I know [in a wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) and building the [ideas I have](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Ideas.html).
 
-I am continuously [learning](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Learning.html), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Reading.html) and writing various tools and [Alfred workflows](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/alfred/alfred-workflows.html) for my own personal productivity.
+I am also continuously [learning](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Learning.html), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Reading.html) and writing various tools and [Alfred workflows](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/alfred/alfred-workflows.html) for my own personal productivity.
 
 My current and past projects include :
 
