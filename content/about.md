@@ -19,7 +19,7 @@ weight = "2"
 
 🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
 
-🎥 And I make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw), share my [music playlists](https://nikitavoloboev.gitbooks.io/knowledge/content/music/music-plays.html) and occasionally [stream myself coding](https://www.twitch.tv/nikiivi).
+🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw), share my [music playlists](https://nikitavoloboev.gitbooks.io/knowledge/content/music/music-plays.html) and occasionally [stream myself coding](https://www.twitch.tv/nikiivi).
 
 💡 Aside from this, I am creating a [social platform](https://github.com/nikitavoloboev/crafting-ideas) to help nurture and grow ideas with the help of community.
 
@@ -31,7 +31,7 @@ weight = "2"
 
 💛 You can support what I do on [Patreon](http://patreon.com/nikitavoloboev), Thank you.
 
-💬 Feel free to ask me [any question you have](https://github.com/nikitavoloboev/ama/issues/new) or just [send me a message](https://telegram.me/nikivi) if you want to make a new friend.
+💬 Feel free to ask me [any question you have](https://github.com/nikitavoloboev/ama/issues/new) or just [send me a message](https://telegram.me/nikivi) if you want to make a new friend. My PGP key can be found [here](https://keybase.io/nikitavoloboev).
 
 
 
