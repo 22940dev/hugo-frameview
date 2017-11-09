@@ -90,11 +90,6 @@ theme = "minimal"
     weight = 7
 
 [[menu.icon]]
-    url = "https://telegram.me/nikivi"
-    name = "telegram"
-    weight = 8
-
-[[menu.icon]]
     url = "mailto:nikita.voloboev@icloud.com"
     name = "envelope-o"
-    weight = 9
+    weight = 8
