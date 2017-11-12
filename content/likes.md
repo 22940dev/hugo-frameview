@@ -66,12 +66,12 @@ And here are some more quotes I really love.
 * When you get the message, hang up the phone.
 * We are all apprentices in a craft where no one ever becomes a master.
 * Pass it on, .... That’s the game I want you to learn. Pass it on.
-* Mistake only stays a mistake if you don't learn from it
+* Mistake only stays a mistake if you don't learn from it.
 * The grass isn't greener on the other side, it's greener where you water it.
-* Happiness is the absence of striving for happiness
+* Happiness is the absence of striving for happiness.
 * The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else’s highlight reel.
 * A language isn't something you learn so much as something you join.
-* Write like you speak
+* Write like you speak.
 * Never use a long word when a short one will do.
 * Everything you can imagine is real.
 * Design is not just what it looks like and feels like. Design is how it works.
