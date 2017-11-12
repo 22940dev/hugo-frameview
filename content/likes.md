@@ -105,8 +105,8 @@ And here are some more quotes I really love.
 * Any sufficiently advanced software is indistinguishable from magic.
 * People have lot invested in this ride.
 * You are an extra in everyone else's movie.
-* Dying is but a moment.
 * Thoughts become words, words become actions.
 * These are all just metaphors for something that simply cannot be put into words.
 * Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
+* Dying is but a moment.
 * So it goes. 
