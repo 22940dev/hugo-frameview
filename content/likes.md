@@ -89,7 +89,7 @@ And here are some more quotes I really love.
 * Are you moving one step in 20 directions or 20 steps in one direction?
 * Knowledge means knowing where it's written down.
 * An unexamined life is not worth living.
-* You can’t be free if you judge people
+* You can’t be free if you judge people.
 * The less I needed, the better I felt.
 * It’s not about having time, it’s about making time.
 * If you don’t know where you’re going, any road will get you there.
