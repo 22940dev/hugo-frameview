@@ -12,13 +12,20 @@ I have been [vegeterian](https://medium.com/@NikitaVoloboev/what-it-means-to-liv
 
 I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
 
+## Sharing
+I really [love sharing things](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) I make and I am really open about most things I do and like as can be seen in this page already.
+
+I share most of the code I write and [release it as Open Source](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) for all other people to use and reuse it as they like.
+
+And I love [tracking all the various things](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/Tracking.html) about myself.
+
 ## Writing
-I try to share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [written knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) in the spirit of continuous learning.
+I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [written knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) in the spirit of continuous learning.
 
 ## Music
-I really love listening to new and interesting music and I curate some playlists of music I like on [Youtube](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) and [Spotify](https://open.spotify.com/user/nikitavoloboev).
+I really love listening to new and interesting music and I curate [many playlists of music I like](https://nikitavoloboev.gitbooks.io/knowledge/content/music/music-plays.html).
 
-## Photos
+## Photographs
 I really like [collecting beautiful photographs and images](https://nikivii.imgur.com) but also [making and creating photographs](https://www.instagram.com/nikitavoloboev/) of my own.
 
 ## Great Software
@@ -40,28 +47,10 @@ I am a bit obsessed with automation and productivity. And I like to share all th
 
 Of course automation is not all and everything that I do but it greatly increases my satisfaction and happiness as I love focusing on solving problems and making new and interesting things rather than repeating myself over and over again.
 
-## Privacy
-I limit my use Facebook, WhatsApp as I don't agree with their stance on collecting as much of one's personal data as possible.
-
-I think it is important to be aware of ways in which companies can collect data about you and ways in which it can be manipulated and used against you.
-
-## Sharing
-Although I do like my privacy, I also really [love sharing things](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) I make and I am really open about most things I do and like as can be seen in this page already.
-
-I share most of the code I write and [release it as Open Source](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) for all other people to use and reuse it as they like.
-
-And I also love tracking things for myself, like :
-
-- [books](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
-- [movies](https://letterboxd.com/NikitaVoloboev/)
-- [TV series and episodes](https://trakt.tv/users/nikivi)
-- [music I listen to](https://www.last.fm/user/playfullyExist)
-- [games I liked](https://www.grouvee.com/user/nikivi/)
-
 ## Quotes
 I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes).
 
-Below are some of my favourite quotes from it that I really love.
+Below are some of my favourite quotes that I really love.
 
 Starting with my favourite quote of all by Alan Watts.
 
