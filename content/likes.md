@@ -31,12 +31,12 @@ I really like [collecting beautiful photographs and images](https://nikivii.imgu
 ## Great Software
 Most notably
 
-- [Alfred](https://www.alfredapp.com/)
-- [Karabiner](https://pqrs.org/osx/karabiner/)
-- [2Do](https://www.2doapp.com/)
-- [VS Code](https://github.com/Microsoft/vscode)
-- [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
-- [Safari](http://www.wikiwand.com/en/Safari_(web_browser))
+- [Alfred](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/alfred/Alfred.html)
+- [Karabiner](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/karabiner/Karabiner.html)
+- [2Do](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/2Do.html)
+- [VS Code](https://nikitavoloboev.gitbooks.io/knowledge/content/text-editors/vs-code.html)
+- [Keyboard Maestro](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/km/km.html)
+- [Safari](https://nikitavoloboev.gitbooks.io/knowledge/content/web/browsers/Safari.html)
 
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
 
