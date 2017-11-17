@@ -76,13 +76,13 @@ googleAnalytics = "UA-74470910-1"
     weight = 4
 
 [[menu.icon]]
-    url = "https://www.twitch.tv/nikiivi"
-    name = "twitch"
+    url = "https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw"
+    name = "youtube"
     weight = 5
 
 [[menu.icon]]
-    url = "https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw"
-    name = "youtube"
+    url = "https://www.twitch.tv/nikiivi"
+    name = "twitch"
     weight = 6
 
 [[menu.icon]]
