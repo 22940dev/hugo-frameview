@@ -91,6 +91,11 @@ googleAnalytics = "UA-74470910-1"
     weight = 7
 
 [[menu.icon]]
+    url = "https://keybase.io/nikitavoloboev"
+    name = "key"
+    weight = 8
+
+[[menu.icon]]
     url = "mailto:nikita.voloboev@icloud.com"
     name = "envelope-o"
-    weight = 8
+    weight = 9
