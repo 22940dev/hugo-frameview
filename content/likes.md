@@ -88,6 +88,7 @@ And here are some more quotes I really love.
 * Focus is a matter of deciding what not to do.
 * Are you moving one step in 20 directions or 20 steps in one direction?
 * Knowledge means knowing where it's written down.
+* Premature optimization is the root of all evil.
 * An unexamined life is not worth living.
 * You can’t be free if you judge people.
 * The less I needed, the better I felt.
