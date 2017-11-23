@@ -66,14 +66,15 @@ googleAnalytics = "UA-74470910-1"
     weight = 2
 
 [[menu.icon]]
-    url = "https://www.instagram.com/nikitavoloboev/"
-    name = "instagram"
+    url = "https://open.spotify.com/user/nikitavoloboev"
+    name = "spotify"
     weight = 3
 
 [[menu.icon]]
-    url = "https://open.spotify.com/user/nikitavoloboev"
-    name = "spotify"
+    url = "https://www.instagram.com/nikitavoloboev/"
+    name = "instagram"
     weight = 4
+
 
 [[menu.icon]]
     url = "https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw"
