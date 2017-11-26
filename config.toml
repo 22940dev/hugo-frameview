@@ -29,7 +29,7 @@ googleAnalytics = "UA-74470910-1"
 
 [[menu.main]]
     url = "https://nikitavoloboev.gitbooks.io/knowledge/content/"
-    name = "Knowledge"
+    name = "Wiki"
     weight = 5
 
 [[menu.main]]

@@ -9,7 +9,7 @@ weight = "3"
 
 I am currently focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/), sharing everything I know in a [wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) and building the [ideas I have](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Ideas.html).
 
-I am continuously [learning](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Learning.html), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/reading-books.html) and writing various tools and [Alfred workflows](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/alfred/alfred-workflows.html) for my own personal productivity.
+I am continuously [learning](https://trello.com/b/cu32qF3q), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/books/Books.html) and writing various tools and [Alfred workflows](https://github.com/learn-anything/alfred-workflows) for my own personal productivity.
 
 My current and past projects include :
 
@@ -37,11 +37,11 @@ The website is fully [Open Source](https://github.com/nikitavoloboev/crafting-id
 ## Alfred Workflows
 Aside from these two projects, I really like programming in Go and making Alfred workflows.
 
-Here are some workflows I made that I use myself daily :
+Here are some workflows I made that I use myself daily:
 
-* [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) : allows you to search through my bookmarks and notes on the web instantly
-* [Alfred Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) : search through a big list of web submissions (creating reddit threads, stack exchange posts and more)
-* [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) : search through any website on the web (the websites searched for can be extended by community)
+* [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - allows you to search through my bookmarks and notes on the web instantly
+* [Alfred Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - search through a big list of web submissions (creating reddit threads, stack exchange posts and more)
+* [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - search through any website on the web (the websites searched for can be extended by community)
 
 ## Other projects
 [Here](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) you can find other things I have shared and made.
