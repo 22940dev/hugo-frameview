@@ -11,7 +11,7 @@ I am currently focusing my time on making and improving [Learn Anything](https:/
 
 I am continuously [learning](https://trello.com/b/cu32qF3q), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/books/Books.html) and writing various tools and [Alfred workflows](https://github.com/learn-anything/alfred-workflows) for my own personal productivity.
 
-My current and past projects include :
+My current and past projects include:
 
 ## [Learn Anything](https://learn-anything.xyz/)
 [Learn Anything](https://learn-anything.xyz/) is an Open Source Website that searches user curated Mind Maps of links and resources to learn anything in the most efficient way.
