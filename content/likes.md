@@ -76,6 +76,7 @@ And here are some more quotes I really love.
 * Everything you can imagine is real.
 * Design is not just what it looks like and feels like. Design is how it works.
 * The details are not the details. They make the design.
+* Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you'll never be the same again.
 * The trick is to combine your waking rational abilities with the infinite possibilities of your dreams.
 * I have no special talents. I am only passionately curious.
 * We're only visitors in this life after all. Might as well be humble and act respectfully.
