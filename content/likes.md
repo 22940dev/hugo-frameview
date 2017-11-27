@@ -58,8 +58,6 @@ Starting with my favourite quote of all by Alan Watts.
 
 If you don't know Alan Watts, I really do reccomend you [check who he is](http://www.alanwatts.com/). He wrote [a few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://www.youtube.com/results?search_query=alan+watts).
 
-And here are some more quotes I really love.
-
 * When you change yourself you change the world.
 * He who fears death is a slave of life.
 * The best time to plant a tree was 50 years ago. The second best time is today.
