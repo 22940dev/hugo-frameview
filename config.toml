@@ -88,7 +88,7 @@ googleAnalytics = "UA-74470910-1"
 
 [[menu.icon]]
     url = "https://www.reddit.com/user/nikivi/"
-    name = "reddit"
+    name = "reddit-alien"
     weight = 7
 
 [[menu.icon]]
