@@ -7,7 +7,7 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/), sharing everything I know in a [wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) and building the [ideas I have](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/Ideas.html).
+I am currently focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/), sharing everything I know in a [wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) and building the [ideas I have](https://trello.com/b/alB1ryRP).
 
 I am continuously [learning](https://trello.com/b/cu32qF3q), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/books/Books.html) and writing various tools and [Alfred workflows](https://github.com/learn-anything/alfred-workflows) for my own personal productivity.
 
@@ -44,4 +44,4 @@ Here are some workflows I made that I use myself daily:
 * [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - search through any website on the web (the websites searched for can be extended by community)
 
 ## Other projects
-[Here](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) you can find other things I have shared and made.
+[Here](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) you can find other things I have shared and made. And [here](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/working-on.html) is a more detailed overview of things I am working on **right now**.
