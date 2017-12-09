@@ -61,7 +61,7 @@ If you don't know Alan Watts, I really do reccomend you [check who he is](http:/
 * When you change yourself you change the world.
 * He who fears death is a slave of life.
 * The best time to plant a tree was 50 years ago. The second best time is today.
-* When you get the message, hang up the phone.
+* Try to learn something about everything and everything about something.
 * We are all apprentices in a craft where no one ever becomes a master.
 * Pass it on, .... That’s the game I want you to learn. Pass it on.
 * Mistake only stays a mistake if you don't learn from it.
@@ -81,6 +81,7 @@ If you don't know Alan Watts, I really do reccomend you [check who he is](http:/
 * Life's about the journey not the destination. 
 * To attain knowledge, add things everyday. To attain wisdom, remove things every day.
 * Happiness is the absence of striving for happiness.
+* When you get the message, hang up the phone.
 * Mistakes are the portals of discovery.
 * When I let go of what I am, I become what I might be.
 * Empower people. Embrace change. Eliminate waste.
