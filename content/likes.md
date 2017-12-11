@@ -20,7 +20,7 @@ I share most of the code I write and [release it as Open Source](https://my.mind
 And I love [tracking all the various things](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/Tracking.html) about myself.
 
 ## Writing
-I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [written knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) in the spirit of continuous learning.
+I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) in the spirit of continuous learning.
 
 ## Music
 I really love listening to new and interesting music and I curate [many playlists of music I like](https://nikitavoloboev.gitbooks.io/knowledge/content/music/music-plays.html).

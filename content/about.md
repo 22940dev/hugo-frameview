@@ -11,11 +11,11 @@ weight = "2"
 
 🚙 Born in Moscow; currently based in Eindhoven, Netherlands.
 
-🔭 I am creating an [Open Source Website](https://github.com/learn-anything/learn-anything) for [learning any topic on Earth with Interactive Mind Maps](https://learn-anything.xyz/).
+🔭 I am creating an [Open Source Website](https://learn-anything.xyz/) for [learning any topic on Earth with Interactive Maps](https://learn-anything.xyz/).
 
-🚀 With it, I want to [accelerate the way in which people learn](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e) by providing the most efficient paths for learning anything.
+🚀 With it, I want to [accelerate the way in which people learn](https://github.com/learn-anything/learn-anything/wiki/White-Paper) by providing the most efficient paths for learning anything.
 
-🖋 I love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or take a look at my [constantly expanding personal knowledge wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) where I share everything I know.
+🖋 I love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or take a look at my [constantly expanding personal wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) where I share everything I know.
 
 🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev/).
 
