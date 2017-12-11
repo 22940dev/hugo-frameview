@@ -11,7 +11,7 @@ weight = "2"
 
 🚙 Born in Moscow; currently based in Eindhoven, Netherlands.
 
-🔭 I am creating an [Open Source Website](https://learn-anything.xyz/) for [learning any topic on Earth with Interactive Maps](https://learn-anything.xyz/).
+🔭 I am creating an [Open Source Website](https://github.com/learn-anything/learn-anything) for [learning any topic on Earth with Interactive Maps](https://learn-anything.xyz/).
 
 🚀 With it, I want to [accelerate the way in which people learn](https://github.com/learn-anything/learn-anything/wiki/White-Paper) by providing the most efficient paths for learning anything.
 
