@@ -39,9 +39,9 @@ Aside from these two projects, I really like programming in Go and making Alfred
 
 Here are some workflows I made that I use myself daily:
 
-* [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - allows you to search through my bookmarks and notes on the web instantly
-* [Alfred Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - search through a big list of web submissions (creating reddit threads, stack exchange posts and more)
-* [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - search through any website on the web (the websites searched for can be extended by community)
+* [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Allows you to search through my bookmarks and notes on the web instantly.
+* [Alfred Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Search through a big list of web submissions (creating reddit threads, stack exchange posts and more).
+* [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (the websites searched for can be extended by community).
 
 ## Other projects
 [Here](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) you can find other things I have shared and made. And [here](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/working-on.html) is a more detailed overview of things I am working on **right now**.
