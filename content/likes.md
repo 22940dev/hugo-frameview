@@ -13,17 +13,17 @@ I have been [vegeterian](https://medium.com/@NikitaVoloboev/what-it-means-to-liv
 I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
 
 ## Sharing
-I really [love sharing things](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) I make and I am really open about most things I do and like as can be seen in this page already.
+I really [love sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I make and I am really open about most things I do and like as can be seen in this page already.
 
 I share most of the code I write and [release it as Open Source](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) for all other people to use and reuse as they like.
 
-And I love [tracking all the various things](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/Tracking.html) about myself.
+And I love [tracking all the various things](https://wiki.nikitavoloboev.xyz/sharing/Tracking.html) about myself.
 
 ## Writing
-I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) in the spirit of continuous learning.
+I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
 ## Music
-I really love listening to new and interesting music and I curate [many playlists of music I like](https://nikitavoloboev.gitbooks.io/knowledge/content/music/music-plays.html).
+I really love listening to new and interesting music and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-plays.html).
 
 ## Photographs
 I really like [collecting beautiful photographs and images](https://www.instagram.com/niikivi/) but also [creating photographs](https://www.instagram.com/nikitavoloboev/) of my own.
@@ -31,12 +31,12 @@ I really like [collecting beautiful photographs and images](https://www.instagra
 ## Great Software
 Most notably
 
-- [Alfred](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/alfred/Alfred.html)
-- [Karabiner](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/karabiner/Karabiner.html)
-- [2Do](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/2Do.html)
-- [VS Code](https://nikitavoloboev.gitbooks.io/knowledge/content/text-editors/vs-code.html)
-- [Keyboard Maestro](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/km/km.html)
-- [Safari](https://nikitavoloboev.gitbooks.io/knowledge/content/web/browsers/Safari.html)
+- [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/Alfred.html)
+- [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html)
+- [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2Do.html)
+- [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code.html)
+- [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/km/km.html)
+- [Safari](https://wiki.nikitavoloboev.xyz/web/browsers/Safari.html)
 
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
 

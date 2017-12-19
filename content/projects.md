@@ -7,9 +7,9 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/), sharing everything I know in a [wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) and building the [ideas I have](https://trello.com/b/alB1ryRP).
+I am currently focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/), sharing everything I know in a [wiki](https://wiki.nikitavoloboev.xyz) and building the [ideas I have](https://trello.com/b/alB1ryRP).
 
-I am continuously [learning](https://trello.com/b/cu32qF3q), [reading books](https://nikitavoloboev.gitbooks.io/knowledge/content/books/Books.html) and writing various tools and [Alfred workflows](https://github.com/learn-anything/alfred-workflows) for my own personal productivity.
+I am continuously [learning](https://trello.com/b/cu32qF3q), [reading books](https://wiki.nikitavoloboev.xyz/books/Books.html) and writing various tools and [Alfred workflows](https://github.com/learn-anything/alfred-workflows) for my own personal productivity.
 
 My current and past projects include:
 
@@ -44,4 +44,4 @@ Here are some workflows I made that I use myself daily:
 * [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (the websites searched for can be extended by community).
 
 ## Other projects
-[Here](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) you can find other things I have shared and made. And [here](https://nikitavoloboev.gitbooks.io/knowledge/content/working-on/working-on.html) is a more detailed overview of things I am working on **right now**.
+[Here](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) you can find other things I have shared and made. And [here](https://wiki.nikitavoloboev.xyz/working-on/working-on.html) is a more detailed overview of things I am working on **right now**.

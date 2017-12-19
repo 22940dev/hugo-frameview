@@ -6,7 +6,7 @@ googleAnalytics = "UA-74470910-1"
 
 [params]
     author = "Nikita Voloboev"
-    description = "Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://nikitavoloboev.gitbooks.io/knowledge/content/sharing/sharing.html) things. <br/>Building an [Open Source](https://github.com/learn-anything/learn-anything) Website to [Learn Anything](https://learn-anything.xyz/) with Interactive Maps."
+    description = "Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things. <br/>Building an [Open Source](https://github.com/learn-anything/learn-anything) Website to [Learn Anything](https://learn-anything.xyz/) with Interactive Maps."
     githubUsername = "nikitavoloboev"
     accent = "#E34E47"
     copyright = "Built with 💗 using [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal) theme"
@@ -28,7 +28,7 @@ googleAnalytics = "UA-74470910-1"
     weight = 4
 
 [[menu.main]]
-    url = "https://nikitavoloboev.gitbooks.io/knowledge/content/"
+    url = "https://wiki.nikitavoloboev.xyz"
     name = "Wiki"
     weight = 5
 
