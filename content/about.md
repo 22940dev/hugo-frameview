@@ -9,7 +9,7 @@ weight = "2"
 
 👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
 
-🚙 Born in Moscow. Currently based in Eindhoven, Netherlands.
+🚙 Born in Moscow. Currently studying in Eindhoven, Netherlands.
 
 🔭 I am creating an [Open Source Website](https://github.com/learn-anything/learn-anything) for [learning any topic on Earth with Interactive Maps](https://learn-anything.xyz/).
 
