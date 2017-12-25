@@ -39,7 +39,8 @@ Aside from these two projects, I really like programming in Go and making Alfred
 
 Here are some workflows I made that I use myself daily:
 
-* [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Allows you to search through my bookmarks and notes on the web instantly.
+* [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz/).
+* [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my bookmarks and notes on the web instantly.
 * [Alfred Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Search through a big list of web submissions (creating reddit threads, stack exchange posts and more).
 * [Alfred Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (the websites searched for can be extended by community).
 
