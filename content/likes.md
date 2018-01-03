@@ -79,7 +79,7 @@ If you don't know Alan Watts, I really do reccomend you [check who he is](http:/
 * I have no special talents. I am only passionately curious.
 * We're only visitors in this life after all. Might as well be humble and act respectfully.
 * Life's about the journey not the destination.
-* "The trick is to live life in a constant state of departure, while always arriving. It saves on hellos and goodbyes.
+* The trick is to live life in a constant state of departure, while always arriving. It saves on hellos and goodbyes.
 * To attain knowledge, add things everyday. To attain wisdom, remove things every day.
 * Happiness is the absence of striving for happiness.
 * When you get the message, hang up the phone.
