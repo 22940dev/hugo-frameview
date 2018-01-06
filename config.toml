@@ -81,23 +81,23 @@ googleAnalytics = "UA-74470910-1"
     weight = 5
 
 [[menu.icon]]
-    url = "https://www.twitch.tv/niikivi"
-    name = "twitch"
-    weight = 6
-
-[[menu.icon]]
     url = "https://soundcloud.com/nikitavoloboev"
     name = "soundcloud"
-    weight = 7
+    weight = 6
 
 [[menu.icon]]
     url = "https://stackoverflow.com/users/3067664/nikivi?tab=profile"
     name = "stack-overflow"
-    weight = 8
+    weight = 7
 
 [[menu.icon]]
     url = "https://www.reddit.com/user/nikivi/"
     name = "reddit-alien"
+    weight = 8
+
+[[menu.icon]]
+    url = "https://www.twitch.tv/niikivi"
+    name = "twitch"
     weight = 9
 
 [[menu.icon]]
