@@ -29,7 +29,7 @@ I really love listening to new and interesting music and I curate [many playlist
 I really like [collecting beautiful photographs and images](https://www.instagram.com/niikivi/) but also [creating photographs](https://www.instagram.com/nikitavoloboev/) of my own.
 
 ## Great Software
-Most notably
+Most notably:
 
 - [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/Alfred.html)
 - [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html)
@@ -41,6 +41,9 @@ Most notably
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
 
 I hope to build my own app or tool that will join this list soon too.
+
+### Alfred
+Of most of software I like to use, Alfred takes the top place. I love extending this awesome launcher with workflows of my own. I use [AwGo](https://github.com/deanishe/awgo) library for writing nearly all my workflows and I share all the workflows I made [here](https://github.com/learn-anything/alfred-workflows).
 
 ## Automation
 I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
