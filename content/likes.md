@@ -23,7 +23,7 @@ And I love [tracking all the various things](https://wiki.nikitavoloboev.xyz/sha
 I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
 ## Music
-I really love listening to new and interesting music and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-plays.html).
+I really love listening to [new and interesting](https://open.spotify.com/user/nikitavoloboev) music and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-plays.html).
 
 ## Photographs
 I really like [collecting beautiful photographs and images](https://www.instagram.com/niikivi/) but also [creating photographs](https://www.instagram.com/nikitavoloboev/) of my own.
