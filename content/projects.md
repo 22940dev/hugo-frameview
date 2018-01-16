@@ -9,7 +9,7 @@ weight = "3"
 
 I am currently focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/), sharing everything I know in a [wiki](https://wiki.nikitavoloboev.xyz) and building the [ideas I have](https://trello.com/b/alB1ryRP).
 
-I am continuously [learning](https://trello.com/b/cu32qF3q), reading [books](https://wiki.nikitavoloboev.xyz/books/Books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html) as well as [writing various tools](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) and [Alfred workflows](https://github.com/learn-anything/alfred-workflows) for my own personal productivity.
+I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://medium.com/@NikitaVoloboev), reading [books](https://wiki.nikitavoloboev.xyz/books/Books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html) as well as writing various tools and [Alfred workflows](https://github.com/learn-anything/alfred-workflows) for my own personal productivity.
 
 My current and past projects include:
 
@@ -37,6 +37,7 @@ The website is fully [Open Source](https://github.com/nikitavoloboev/crafting-id
 Aside from these two projects, I really like programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows).
 
 Here are some workflows I made that I use myself daily:
+
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz/).
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (the websites searched for can be extended by community).
 - [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Search through a big list of web submissions (creating reddit threads, stack exchange posts and more).
@@ -49,7 +50,7 @@ Here are some workflows I made that I use myself daily:
 - [License Up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
 
 ## My macOS and iOS workflow
-I share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love.
+I also share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love.
 
 ## Curated lists
 I mostly focus on curating and maintaining the multitude of [Learn Anything curated lists](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) which include things like [books](https://github.com/learn-anything/books), [courses](https://github.com/learn-anything/courses), [blogs](https://github.com/learn-anything/blogs) and more.
