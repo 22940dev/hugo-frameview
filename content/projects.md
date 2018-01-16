@@ -53,7 +53,7 @@ Here are some workflows I made that I use myself daily:
 - [Markdown parser](https://github.com/nikitavoloboev/markdown-parser)
 
 ## My macOS and iOS workflow
-I also share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love.
+I also share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles config](https://github.com/nikitavoloboev/dotfiles).
 
 ## Curated lists
 I mostly focus on curating and maintaining the multitude of [Learn Anything curated lists](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) which include things like [books](https://github.com/learn-anything/books), [courses](https://github.com/learn-anything/courses), [blogs](https://github.com/learn-anything/blogs) and more.
@@ -61,6 +61,6 @@ I mostly focus on curating and maintaining the multitude of [Learn Anything cura
 And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting).
 
 ## Other things
-I visualise all the GitHub repositores I shared [here](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0)
+I map all the GitHub repositores I shared [here](https://wiki.nikitavoloboev.xyz/sharing/my-github.html). I also map all the articles I wrote [all the articles I wrote](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) and [videos I made](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html).
 
 [Here](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) you can find other things I have shared and made.

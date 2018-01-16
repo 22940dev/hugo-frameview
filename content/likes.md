@@ -15,7 +15,7 @@ I think everyone has a choice nowadays of what they can eat and animal suffering
 ## Sharing
 I really [love sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I make and I am really open about most things I do and like as can be seen in this page already.
 
-I share most of the code I write and [release it as Open Source](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) for all other people to use and reuse as they like.
+I share most of the code I write and [release it as Open Source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for all other people to use and reuse as they like.
 
 And I love [tracking all the various things](https://wiki.nikitavoloboev.xyz/sharing/Tracking.html) about myself.
 
