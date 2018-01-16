@@ -37,13 +37,13 @@ The website is fully [Open Source](https://github.com/nikitavoloboev/crafting-id
 Aside from these two projects, I really like programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows).
 
 Here are some workflows I made that I use myself daily:
-* [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz/).
-* [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (the websites searched for can be extended by community).
-* [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Search through a big list of web submissions (creating reddit threads, stack exchange posts and more).
-* [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my bookmarks and notes on the web instantly.
-* [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome) in seconds inside Alfred.
-* [Small workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
-* [Birthday](https://github.com/nikitavoloboev/alfred-birthday) - Showcase how much time passed since your birthday.
+- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz/).
+- [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (the websites searched for can be extended by community).
+- [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Search through a big list of web submissions (creating reddit threads, stack exchange posts and more).
+- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my bookmarks and notes on the web instantly.
+- [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome) in seconds inside Alfred.
+- [Small workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
+- [Birthday](https://github.com/nikitavoloboev/alfred-birthday) - Showcase how much time passed since your birthday.
 
 ## CLI tools
 - [License Up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
