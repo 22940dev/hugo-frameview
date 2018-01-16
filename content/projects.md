@@ -9,7 +9,7 @@ weight = "3"
 
 I am currently focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/), sharing everything I know in a [wiki](https://wiki.nikitavoloboev.xyz) and building the [ideas I have](https://trello.com/b/alB1ryRP).
 
-I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://medium.com/@NikitaVoloboev), reading [books](https://wiki.nikitavoloboev.xyz/books/Books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html) as well as [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) all the various tools and Alfred workflows I built.
+I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://medium.com/@NikitaVoloboev), reading [books](https://wiki.nikitavoloboev.xyz/books/Books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html) as well as [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) all the [various tools and Alfred workflows](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) I built.
 
 My current and past projects include:
 
