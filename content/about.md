@@ -9,8 +9,6 @@ weight = "2"
 
 👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
 
-🚙 Born in Moscow. Currently looking for internship and work opportunities.
-
 🔭 I am creating an [Open Source Website](https://github.com/learn-anything/learn-anything) for [learning any topic on Earth with Interactive Maps](https://learn-anything.xyz/).
 
 🚀 With it, I want to [accelerate the way in which people learn](https://github.com/learn-anything/learn-anything/wiki/White-Paper) by providing the most efficient paths for learning anything.
