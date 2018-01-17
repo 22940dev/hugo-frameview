@@ -7,9 +7,9 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently focusing my time on making and improving [Learn Anything](https://learn-anything.xyz/), sharing everything I know in a [wiki](https://wiki.nikitavoloboev.xyz) and building the [ideas I have](https://trello.com/b/alB1ryRP).
+I am currently making and improving [Learn Anything](https://learn-anything.xyz), sharing everything I know in a [wiki](https://wiki.nikitavoloboev.xyz) and building the [ideas I have](https://trello.com/b/alB1ryRP).
 
-I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://medium.com/@NikitaVoloboev), reading [books](https://wiki.nikitavoloboev.xyz/books/Books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html) as well as [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) all the [various tools and Alfred workflows](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) I built.
+I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html), reading [books](https://wiki.nikitavoloboev.xyz/books/Books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html), [making videos](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) all the [various tools and Alfred workflows](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) I built.
 
 My current and past projects include:
 
@@ -61,6 +61,6 @@ I mostly focus on curating and maintaining the multitude of [Learn Anything cura
 And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting).
 
 ## Other things
-I map all the GitHub repositores I shared [here](https://wiki.nikitavoloboev.xyz/sharing/my-github.html). I also map [all the articles I wrote](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) and [videos I made](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html).
+I map all the [GitHub repositores I shared](https://wiki.nikitavoloboev.xyz/sharing/my-github.html), [all the articles I wrote](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) and [videos I made](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html).
 
 [Here](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) you can find other things I have shared and made.
