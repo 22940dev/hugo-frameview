@@ -61,6 +61,6 @@ I mostly focus on curating and maintaining the multitude of [Learn Anything cura
 And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting).
 
 ## Other things
-I map all the [GitHub repositores I shared](https://wiki.nikitavoloboev.xyz/sharing/my-github.html), [all the articles I wrote](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) and [videos I made](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html).
+I also map all the [GitHub repositores I shared](https://wiki.nikitavoloboev.xyz/sharing/my-github.html), [all the articles I wrote](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) and [videos I made](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html).
 
 [Here](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) you can find other things I have shared and made.
