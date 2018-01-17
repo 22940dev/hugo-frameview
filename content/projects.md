@@ -31,7 +31,7 @@ I want to create a website where people can share their ideas freely with anyone
 
 This platform's features should focus on minimising the time that it takes from getting a raw idea out into the world and seeing it grow.
 
-The website is fully [Open Source](https://github.com/nikitavoloboev/crafting-ideas) so anyone can help to join and build this awesome thing together.
+The website is fully [Open Source](https://github.com/nikitavoloboev/crafting-ideas) so anyone can help and join to build this awesome thing together.
 
 ## Alfred Workflows
 Aside from these two projects, I really like programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows).
