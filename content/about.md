@@ -21,7 +21,7 @@ weight = "2"
 
 💡 Aside from this, I am creating a [social platform](https://github.com/nikitavoloboev/crafting-ideas) to help nurture and grow ideas with the help of community.
 
-🎆 I am looking for internship and work opportunites in web or mobile development. My CV can be found [online](https://stackoverflow.com/cv/nikitavoloboev).
+🎆 I am looking for entry level work opportunities in web, desktop or mobile development. My CV can be found [online](https://stackoverflow.com/cv/nikitavoloboev).
 
 📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com).
 
