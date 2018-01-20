@@ -107,8 +107,6 @@ If you don't know Alan Watts, I really do reccomend you [check who he is](http:/
 
 > To attain knowledge, add things everyday. To attain wisdom, remove things every day.
 
-> Happiness is the absence of striving for happiness.
-
 > When you get the message, hang up the phone.
 
 > Mistakes are the portals of discovery.
