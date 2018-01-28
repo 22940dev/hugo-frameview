@@ -59,7 +59,7 @@ I know from personal experience just how absurd it is to give away all your data
 
 You can't judge FB for that. It sets the rules for what content its users can and cannot talk about. The users agreed to that when signing up.
 
-I think it's absurd to take this situation for granted and agree to live under one house whose rules are decided by a handful of people.
+I think it's absurd though to take this situation for granted and agree to live under one house whose rules are decided by a handful of people.
 
 Fortunately there are decentralised platforms out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where *you* are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz/) is one such alternative.
 
