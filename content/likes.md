@@ -51,7 +51,7 @@ I am a bit obsessed with automation and productivity. And I like to share all th
 Of course automation is not all and everything that I do but it greatly increases my satisfaction and happiness as I love focusing on solving problems and making new and interesting things rather than repeating myself over and over again.
 
 ## Freedom
-I am a firm believer that everyone should have have their opinion heard in the world. I think the current trend of monopolising all communication and all human activity under few companies is frightening.
+I am a firm believer that everyone should have their opinion heard in the world. I think the current trend of monopolising all communication and all human activity under few companies is frightening.
 
 I know from personal experience just how absurd it is to give away all your data and communication to some entity who then can manage what to do with it. Managing what people should see and what they can talk about. Overviewing every move you make and every word you type or say on their `platform`.
 
