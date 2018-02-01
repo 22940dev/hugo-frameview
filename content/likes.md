@@ -23,7 +23,7 @@ And I love [tracking all the various things](https://wiki.nikitavoloboev.xyz/sha
 I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
 ## Music
-I really love listening to [new and interesting](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn) music and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-plays.html).
+I really love listening to [new and interesting](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn) music and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
 
 ## Photographs
 I really like [collecting beautiful photographs and images](https://www.instagram.com/niikivi/) but also [creating photographs](https://www.instagram.com/nikitavoloboev/) of my own.
@@ -173,6 +173,8 @@ If you don't know Alan Watts, I really do reccomend you [check who he is](http:/
 > You are an extra in everyone else's movie.
 
 > Thoughts become words, words become actions.
+
+> You are life having a human experience, not a human having a life experience.
 
 > These are all just metaphors for something that simply cannot be put into words.
 
