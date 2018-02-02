@@ -17,7 +17,7 @@ I really [love sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.h
 
 I share most of the code I write and [release it as Open Source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for all other people to use and reuse as they like.
 
-And I love [tracking all the various things](https://wiki.nikitavoloboev.xyz/sharing/Tracking.html) about myself.
+And I love [tracking all the various things](https://wiki.nikitavoloboev.xyz/sharing/tracking.html) about myself.
 
 ## Writing
 I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
@@ -31,12 +31,12 @@ I really like [collecting beautiful photographs and images](https://www.instagra
 ## Great Software
 Most notably:
 
-- [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/Alfred.html)
-- [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html)
-- [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2Do.html)
+- [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred.html)
+- [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html)
+- [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html)
 - [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code.html)
 - [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/km/km.html)
-- [Safari](https://wiki.nikitavoloboev.xyz/web/browsers/Safari.html)
+- [Safari](https://wiki.nikitavoloboev.xyz/web/browsers/safari.html)
 
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
 
