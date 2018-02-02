@@ -168,13 +168,13 @@ If you don't know Alan Watts, I really do reccomend you [check who he is](http:/
 
 > Any sufficiently advanced software is indistinguishable from magic.
 
+> You are life having a human experience, not a human having a life experience.
+
 > People have lot invested in this ride.
 
 > You are an extra in everyone else's movie.
 
 > Thoughts become words, words become actions.
-
-> You are life having a human experience, not a human having a life experience.
 
 > These are all just metaphors for something that simply cannot be put into words.
 
