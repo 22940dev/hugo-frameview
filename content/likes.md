@@ -128,6 +128,8 @@ If you don't know Alan Watts, I really do reccomend you [check who he is](http:/
 
 > Empower people. Embrace change. Eliminate waste.
 
+> Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
+
 > Focus is a matter of deciding what not to do.
 
 > The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
