@@ -7,9 +7,9 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently building [Learn Anything](https://learn-anything.xyz), sharing everything I know in a [wiki](https://wiki.nikitavoloboev.xyz) and building the [ideas I have](https://trello.com/b/alB1ryRP).
+I am currently building [Learn Anything](https://learn-anything.xyz), [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html), writing a [wiki](https://wiki.nikitavoloboev.xyz) and building the [ideas I have](https://trello.com/b/alB1ryRP).
 
-I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html), reading [books](https://wiki.nikitavoloboev.xyz/books/books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html), [making videos](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) all the [various tools and Alfred workflows](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) I built.
+I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html), reading [books](https://wiki.nikitavoloboev.xyz/books/books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html), [making videos](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html) and [writing code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html).
 
 My current and past projects include:
 
