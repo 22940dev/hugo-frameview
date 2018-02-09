@@ -20,17 +20,6 @@ A world where knowledge and knowledge sharing is respected and encouraged and ev
 
 The most awesome thing about this project is that it is run by a community of awesome people and [anyone can contribute](https://github.com/learn-anything/learn-anything/wiki/Contributing) to making it better for everyone.
 
-## [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas)
-I have many ideas but little time to implement everything I wish.
-
-Ideas can change the world. In cases you have an awesome idea but lack the skills or funding for it, there is not a lot you can do outside from working on it on your own, asking your friends or asking for help on the internet.
-
-I want to create a website where people can share their ideas freely with anyone and have a public and private backlog of ideas. Anyone can come to your profile and see what ideas you wish to work on and anyone can message you to offer help or simply talk with you about this awesome idea you have and together you can go build it and make it a **thing**.
-
-This platform's features should focus on minimising the time that it takes from getting a raw idea out into the world and seeing it grow.
-
-The website is fully [Open Source](https://github.com/nikitavoloboev/crafting-ideas) so anyone can help and join to build this awesome thing together.
-
 ## Alfred Workflows
 Aside from these two projects, I really like programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows).
 
