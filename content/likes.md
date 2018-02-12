@@ -8,7 +8,7 @@ weight = "7"
 +++
 
 ## Animals
-I have been [vegeterian](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) for over 4 years now and it has been one of the best decisions I have made thus far in my life.
+I have been [vegeterian](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) for over 6 years now and it has been one of the best decisions I have made thus far in my life.
 
 I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
 
