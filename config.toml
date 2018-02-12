@@ -34,7 +34,7 @@ googleAnalytics = "UA-74470910-1"
 
 [[menu.main]]
     url = "https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5"
-    name = "My Mind"
+    name = "Mind"
     weight = 6
 
 [[menu.main]]
