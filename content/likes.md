@@ -55,12 +55,6 @@ I am a firm believer that everyone should have their opinion heard in the world.
 
 I know from personal experience just how absurd it is to give away all your data and communication to some entity who then can manage what to do with it. Managing what people should see and what they can talk about. Overviewing every move you make and every word you type or say on their `platform`.
 
-[Learn Anything](https://learn-anything.xyz/), for example. An educational website that lets users search topics to learn and find the best resources for learning the topics is `banned` from FB, Instagram and all other FB products. FB decided the website was not worthy to be shared on their platform so it is banned. You can't message it to anyone, you can't share a post with it to anyone. All mentions of the website were also completely erased from the website.
-
-You can't judge FB for that. It sets the rules for what content its users can and cannot talk about. The users agreed to that when signing up.
-
-I think it's absurd though to take this situation for granted and agree to live under one house whose rules are decided by a handful of people.
-
 Fortunately there are decentralised platforms out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where `you` are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz/) is one such alternative.
 
 ## Quotes
