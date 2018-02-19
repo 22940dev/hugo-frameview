@@ -21,7 +21,7 @@ A world where knowledge and knowledge sharing is respected and encouraged and ev
 The most awesome thing about this project is that it is run by a community of awesome people and [anyone can contribute](https://github.com/learn-anything/learn-anything/blob/dev/CONTRIBUTING.md#contributing) to making it better for everyone.
 
 ## Alfred Workflows
-Aside from these two projects, I really like programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows).
+I really love programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows--).
 
 Here are some workflows I made that I use myself daily:
 
@@ -40,7 +40,7 @@ Here are some workflows I made that I use myself daily:
 - [Markdown parser](https://github.com/nikitavoloboev/markdown-parser) - Parse markdown to grab various things.
 
 ## My macOS and iOS workflow
-I also share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles config](https://github.com/nikitavoloboev/dotfiles).
+I also share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles).
 
 ## Curated lists
 I mostly focus on curating and maintaining the multitude of [Learn Anything curated lists](https://github.com/learn-anything/curated-lists#curated-lists-) which include things like [books](https://github.com/learn-anything/books#interesting-books--), [courses](https://github.com/learn-anything/courses#interesting-courses--), [blogs](https://github.com/learn-anything/blogs#interesting-blogs--) and more.

@@ -23,10 +23,10 @@ And I love [tracking all the various things](https://wiki.nikitavoloboev.xyz/sha
 I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
 ## Music
-I really love listening to [new and interesting](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn) music and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
+I really love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
 
 ## Photographs
-I really like [collecting beautiful photographs and images](https://www.instagram.com/niikivi/) but also [creating photographs](https://www.instagram.com/nikitavoloboev/) of my own.
+I really love [making photographs](https://www.instagram.com/nikitavoloboev/) and [collecting beautiful photographs and images](https://www.instagram.com/niikivi/).
 
 ## Great Software
 Most notably:
@@ -43,7 +43,7 @@ But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
 I hope to build my own app or tool that will join this list soon too.
 
 ### Alfred
-Of most of software I like to use, Alfred takes the top place. I love extending this awesome launcher with workflows of my own. I use [AwGo](https://github.com/deanishe/awgo) library for writing nearly all my workflows and I share all the workflows I made [here](https://github.com/learn-anything/alfred-workflows).
+Of most of software I like to use, Alfred takes the top place. I love extending this awesome launcher with workflows of my own. I use [AwGo](https://github.com/deanishe/awgo) library for writing nearly all my workflows and I share all the workflows I made [here](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows--).
 
 ## Automation
 I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
@@ -55,10 +55,10 @@ I am a firm believer that everyone should have their opinion heard in the world.
 
 I know from personal experience just how absurd it is to give away all your data and communication to some entity who then can manage what to do with it. Managing what people should see and what they can talk about. Overviewing every move you make and every word you type or say on their *platform*.
 
-Fortunately there are decentralised platforms out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where `you` are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz/) is one such alternative.
+Fortunately there are decentralised platforms out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where *you* are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz/) is one such alternative.
 
 ## Quotes
-I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes).
+I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes#interesting-quotes--).
 
 Below are some of my favourite quotes that I really love.
 
@@ -66,7 +66,7 @@ Starting with my favourite quote of all by Alan Watts.
 
 > We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
 
-If you don't know Alan Watts, I really do reccomend you [check who he is](http://www.alanwatts.com/). He wrote [a few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://www.youtube.com/results?search_query=alan+watts).
+If you don't know Alan Watts, I really do reccomend you [check who he is](http://www.alanwatts.com/). He wrote [a few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://wiki.nikitavoloboev.xyz/humans/alan-watts.html).
 
 > When you change yourself you change the world.
 
@@ -127,6 +127,8 @@ If you don't know Alan Watts, I really do reccomend you [check who he is](http:/
 > Focus is a matter of deciding what not to do.
 
 > The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+
+> Sometimes our tools do what we tell them to. Other times, we adapt ourselves to our tools’ requirements.
 
 > Are you moving one step in 20 directions or 20 steps in one direction?
 
