@@ -13,7 +13,7 @@ I have been [vegeterian](https://medium.com/@NikitaVoloboev/what-it-means-to-liv
 I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
 
 ## Sharing
-I really [love sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I make and I am really open about most things I do and like as can be seen in this page already.
+I [love sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I make and I am open about most things I do and like as can be seen in this page already.
 
 I share most of the code I write and [release it as Open Source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for all other people to use and reuse as they like.
 
@@ -23,10 +23,10 @@ And I love [tracking all the various things](https://wiki.nikitavoloboev.xyz/sha
 I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
 ## Music
-I really love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
+I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
 
 ## Photographs
-I really love [making photographs](https://www.instagram.com/nikitavoloboev/) and [collecting beautiful photographs and images](https://www.instagram.com/niikivi/).
+I love [making photographs](https://www.instagram.com/nikitavoloboev/) and [collecting beautiful photographs and images](https://www.instagram.com/niikivi/).
 
 ## Great Software
 Most notably:
@@ -60,13 +60,13 @@ Fortunately there are decentralised platforms out there where no one restricts w
 ## Quotes
 I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes#interesting-quotes--).
 
-Below are some of my favourite quotes that I really love.
+Below are some of my favourite quotes that I love.
 
 Starting with my favourite quote of all by Alan Watts.
 
 > We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
 
-If you don't know Alan Watts, I really do reccomend you [check who he is](http://www.alanwatts.com/). He wrote [a few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://wiki.nikitavoloboev.xyz/humans/alan-watts.html).
+If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanwatts.com/). He wrote [a few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://wiki.nikitavoloboev.xyz/humans/alan-watts.html).
 
 > When you change yourself you change the world.
 
