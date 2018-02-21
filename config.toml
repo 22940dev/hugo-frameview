@@ -38,13 +38,13 @@ googleAnalytics = "UA-74470910-1"
     weight = 6
 
 [[menu.main]]
-    url = "https://stackoverflow.com/cv/nikitavoloboev"
-    name = "CV"
+    url = "https://github.com/nikitavoloboev/ama#ask-me-anything"
+    name = "AMA"
     weight = 8
 
 [[menu.main]]
-    url = "https://github.com/nikitavoloboev/ama#ask-me-anything"
-    name = "AMA"
+    url = "https://stackoverflow.com/cv/nikitavoloboev"
+    name = "CV"
     weight = 9
 
 [[menu.main]]
