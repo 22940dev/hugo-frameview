@@ -38,19 +38,19 @@ googleAnalytics = "UA-74470910-1"
     weight = 6
 
 [[menu.main]]
-    url = "https://github.com/nikitavoloboev/ama#ask-me-anything"
-    name = "Ask"
-    weight = 8
-
-[[menu.main]]
     url = "https://stackoverflow.com/cv/nikitavoloboev"
     name = "CV"
-    weight = 9
+    weight = 7
+
+[[menu.main]]
+    url = "https://github.com/nikitavoloboev/ama#ask-me-anything"
+    name = "AMA"
+    weight = 8
 
 [[menu.main]]
     url = "http://patreon.com/nikitavoloboev"
     name = "♥"
-    weight = 10
+    weight = 9
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
