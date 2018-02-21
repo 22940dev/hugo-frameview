@@ -7,9 +7,9 @@ googleAnalytics = "UA-74470910-1"
 [params]
     author = "Nikita Voloboev"
     description = "Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things. <br/>Building an [Open Source](https://github.com/learn-anything/learn-anything) Website to [Learn Anything](https://learn-anything.xyz/) with Interactive Maps."
+    copyright = " "
     githubUsername = "nikitavoloboev"
     accent = "#E34E47"
-    copyright = "Built with 💗 using [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal) theme"
     showBorder = true
     backgroundColor = ""
     font = "Quicksand" # should match the name on Google Fonts!
