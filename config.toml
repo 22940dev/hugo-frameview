@@ -1,4 +1,4 @@
-baseURL = "https://learn-anything.xyz/"
+baseURL = "https://nikitavoloboev.xyz"
 languageCode = "en-us"
 title = "Nikita Voloboev"
 theme = "minimal"
@@ -26,7 +26,6 @@ googleAnalytics = "UA-74470910-1"
     url = "https://medium.com/@NikitaVoloboev"
     name = "Blog"
     weight = 4
-
 
 [[menu.main]]
     url = "https://wiki.nikitavoloboev.xyz"
