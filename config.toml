@@ -43,7 +43,7 @@ googleAnalytics = "UA-74470910-1"
     weight = 8
 
 [[menu.main]]
-    url = "https://stackoverflow.com/cv/nikitavoloboev"
+    url = "https://www.linkedin.com/in/nikitavoloboev"
     name = "CV"
     weight = 9
 
