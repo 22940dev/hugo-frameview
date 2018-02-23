@@ -19,8 +19,6 @@ weight = "2"
 
 🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw), share my [music playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists.html) and occasionally [stream myself coding](https://www.twitch.tv/niikivi).
 
-💡 Aside from this, I am creating a [social platform](https://github.com/nikitavoloboev/crafting-ideas) to help nurture and grow ideas with the help of community.
-
 🎆 I am looking for work opportunities in web, desktop or mobile development. My CV can be found [online](https://www.linkedin.com/in/nikitavoloboev).
 
 📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com).
