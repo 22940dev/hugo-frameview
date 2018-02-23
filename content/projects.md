@@ -43,7 +43,7 @@ Here are some workflows I made that I use myself daily:
 I also share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles).
 
 ## Curated lists
-I mostly focus on curating and maintaining the multitude of [Learn Anything curated lists](https://github.com/learn-anything/curated-lists#curated-lists) which include things like [books](https://github.com/learn-anything/books#interesting-books--), [courses](https://github.com/learn-anything/courses#interesting-courses--), [blogs](https://github.com/learn-anything/blogs#interesting-blogs--) and more.
+I mostly focus on curating and maintaining the various [curated lists](https://github.com/learn-anything/curated-lists#curated-lists) which include things like [books](https://github.com/learn-anything/books#interesting-books--), [courses](https://github.com/learn-anything/courses#interesting-courses--), [blogs](https://github.com/learn-anything/blogs#interesting-blogs--) and more.
 
 And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting).
 
