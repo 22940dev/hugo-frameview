@@ -144,6 +144,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > It’s not about having time, it’s about making time.
 
+> The only way to protect a good idea is superior execution.
+
 > If you don’t know where you’re going, any road will get you there.
 
 > For a long time it seemed to me that real life was about to begin, but there was always some obstacle in the way. Something had to be got through first, some unfinished business; time still to be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life.
