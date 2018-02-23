@@ -7,7 +7,7 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently making [Learn Anything](https://learn-anything.xyz), [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html), writing a [wiki](https://wiki.nikitavoloboev.xyz) and building [ideas](https://trello.com/b/alB1ryRP).
+I am currently making [Learn Anything](https://learn-anything.xyz), [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html), writing a [wiki](https://wiki.nikitavoloboev.xyz) and [blog](https://medium.com/@NikitaVoloboev) and building [ideas](https://trello.com/b/alB1ryRP).
 
 My current and past projects include:
 
@@ -45,7 +45,7 @@ I also share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [
 ## Curated lists
 I mostly focus on curating and maintaining the various [curated lists](https://github.com/learn-anything/curated-lists#curated-lists) which include things like [books](https://github.com/learn-anything/books#interesting-books--), [courses](https://github.com/learn-anything/courses#interesting-courses--), [blogs](https://github.com/learn-anything/blogs#interesting-blogs--) and more.
 
-And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting).
+And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting#privacy-respecting) and a [list of things to do and places to look](https://github.com/nikitavoloboev/find-work#find-work-programming) to find work programming.
 
 ## Other things
 I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html), reading [books](https://wiki.nikitavoloboev.xyz/books/books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html), [making videos](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html) and [writing code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html).
