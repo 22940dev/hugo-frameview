@@ -56,11 +56,9 @@ I know from personal experience just how absurd it is to give away all your data
 Fortunately there are decentralised platforms out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where **you** are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz/) is one such alternative.
 
 ## Quotes
-I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes#interesting-quotes--).
+I curate a GitHub list of all the interesting quotes I like [here](https://github.com/learn-anything/quotes#interesting-quotes-).
 
-Below are some of my favourite quotes that I love.
-
-Starting with my favourite quote of all by Alan Watts.
+Below are some of my favourite quotes that I love. Starting with my favourite quote of all by Alan Watts.
 
 > We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
 
