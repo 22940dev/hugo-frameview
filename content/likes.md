@@ -17,8 +17,6 @@ I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I 
 
 I share most of the code I write and [release it as Open Source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for all other people to use and reuse as they like.
 
-And I love [tracking all the various things](https://wiki.nikitavoloboev.xyz/sharing/tracking.html) about myself.
-
 ## Writing
 I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
