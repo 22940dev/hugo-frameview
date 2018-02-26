@@ -82,6 +82,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Happiness is the absence of striving for happiness.
 
+> Forgive others not because they deserve forgiveness, but because you deserve peace.
+
 > The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else’s highlight reel.
 
 > A language isn't something you learn so much as something you join.
@@ -96,6 +98,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > The details are not the details. They make the design.
 
+> Often a sign of expertise is noticing what doesn’t happen.
+
 > Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you'll never be the same again.
 
 > The trick is to combine your waking rational abilities with the infinite possibilities of your dreams.
@@ -106,7 +110,11 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Life's about the journey not the destination.
 
+> A journey of a thousand miles begins with a single step.
+
 > The trick is to live life in a constant state of departure, while always arriving. It saves on hellos and goodbyes.
+
+> If you live for money, that is all you will get out of it.
 
 > To attain knowledge, add things everyday. To attain wisdom, remove things every day.
 
@@ -114,9 +122,13 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Mistakes are the portals of discovery.
 
+> Chance favors the prepared mind.
+
 > When I let go of what I am, I become what I might be.
 
 > Empower people. Embrace change. Eliminate waste.
+
+> We’re all basically building castles in the sand. Whether the surf comes in tomorrow, next year or next decade, don’t kid yourself of its permanence. We’re crafting art for the moment, and tomorrow’s programmers will create new art for tomorrow’s needs.
 
 > Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
 
@@ -138,6 +150,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > The less I needed, the better I felt.
 
+> Humility is not thinking less of yourself, but thinking of yourself less.
+
 > It’s not about having time, it’s about making time.
 
 > The only way to protect a good idea is superior execution.
@@ -156,7 +170,13 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
 
+> If you want to achieve greatness, stop asking for permission.
+
+> Don’t rely on someone else for your self-worth; only you can be responsible for that.
+
 > A programmer will be able to understand a problem in full only when he has solved it at least once.
+
+> Know how to solve every problem that has been solved.
 
 > One of the hardest decisions you’ll ever face in life is choosing whether to walk away or try harder.
 
@@ -171,6 +191,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 > You are an extra in everyone else's movie.
 
 > Thoughts become words, words become actions.
+
+> Progress, not perfection.
 
 > These are all just metaphors for something that simply cannot be put into words.
 
