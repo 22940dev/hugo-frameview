@@ -184,6 +184,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Any sufficiently advanced software is indistinguishable from magic.
 
+> We shape our tools and, thereafter, our tools shape us.
+
 > You are life having a human experience, not a human having a life experience.
 
 > People have lot invested in this ride.
