@@ -62,7 +62,7 @@ Below are some of my favourite quotes that I love. Starting with my favourite qu
 
 > We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
 
-If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanwatts.com/). He wrote [a few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://wiki.nikitavoloboev.xyz/humans/alan-watts.html).
+If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanwatts.com/). He wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://wiki.nikitavoloboev.xyz/humans/alan-watts.html).
 
 > When you change yourself you change the world.
 
