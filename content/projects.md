@@ -21,7 +21,9 @@ A world where knowledge and knowledge sharing is respected and encouraged and ev
 The most awesome thing about this project is that it is run by a community of awesome people and [anyone can contribute](https://github.com/learn-anything/learn-anything/blob/dev/CONTRIBUTING.md#contributing) to making it better for everyone.
 
 ## Alfred Workflows
-I love programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme). Here are some workflows I made that I use myself daily:
+I love programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme).
+
+Here are some workflows I made that I use myself daily:
 
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (the websites searched for can be extended by community).
 - [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Search through a big list of web submissions (creating reddit threads, stack exchange posts and more).
