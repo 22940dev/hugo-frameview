@@ -24,7 +24,7 @@ I share my knowledge and experiences by writing about it in my [blog](https://me
 I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
 
 ## Photographs
-I love [making photographs](https://www.instagram.com/nikitavoloboev/) and collecting [beautiful photographs and images](https://www.instagram.com/niikivi/).
+I love [making photographs](https://www.instagram.com/nikitavoloboev) and collecting [beautiful photographs and images](https://www.instagram.com/niikivi).
 
 ## Great Software
 Most notably:
@@ -41,7 +41,7 @@ But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
 I hope to build my own app or tool that will join this list soon too.
 
 ### Alfred
-Of most of software I like to use, Alfred takes the top place. I love extending this awesome launcher with workflows of my own. I use [AwGo](https://github.com/deanishe/awgo) library for writing nearly all my workflows and I share all the workflows I made [here](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
+Of most of software I like to use, Alfred takes the top place. I love extending this awesome launcher with workflows of my own. I use [AwGo](https://github.com/deanishe/awgo) library for writing nearly all my workflows and I share all the workflows I made [here](https://github.com/learn-anything/alfred-workflows#readme).
 
 ## Automation
 I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
@@ -56,7 +56,7 @@ I know from personal experience just how absurd it is to give away all your data
 Fortunately there are decentralised platforms out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where **you** are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz/) is one such alternative.
 
 ## Quotes
-I curate a [GitHub list](https://github.com/learn-anything/quotes#interesting-quotes-) of all the interesting quotes I like.
+I curate a [GitHub list](https://github.com/learn-anything/quotes#readme) of all the interesting quotes I like.
 
 Below are some of my favourite quotes that I love. Starting with my favourite quote of all by Alan Watts.
 
