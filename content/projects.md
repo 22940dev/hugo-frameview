@@ -18,7 +18,7 @@ I genuinely believe it can change the world for the better. Imagine a world wher
 
 A world where knowledge and knowledge sharing is respected and encouraged and everyone can leverage on the knowledge of all the people of the world.
 
-The most awesome thing about this project is that it is run by a community of awesome people and [anyone can contribute](https://github.com/learn-anything/learn-anything/blob/dev/CONTRIBUTING.md#contributing) to making it better for everyone.
+The most awesome thing about this project is that it is run by a community of awesome people and [anyone can contribute](https://github.com/learn-anything/learn-anything/blob/dev/CONTRIBUTING.md#readme) to making it better for everyone.
 
 ## Alfred Workflows
 I love programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme).
@@ -29,7 +29,7 @@ Here are some workflows I made that I use myself daily:
 - [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Search through a big list of web submissions (creating reddit threads, stack exchange posts and more).
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz).
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my bookmarks and notes on the web instantly.
-- [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome) in seconds.
+- [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome#readme) in seconds.
 - [Small workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
 
 ## CLI tools
