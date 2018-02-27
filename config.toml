@@ -38,7 +38,7 @@ googleAnalytics = "UA-74470910-1"
     weight = 6
 
 [[menu.main]]
-    url = "https://github.com/nikitavoloboev/ama#ask-me-anything"
+    url = "https://github.com/nikitavoloboev/ama#readme"
     name = "AMA"
     weight = 8
 
@@ -91,21 +91,11 @@ googleAnalytics = "UA-74470910-1"
     weight = 7
 
 [[menu.icon]]
-    url = "https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile"
-    name = "stack-overflow"
+    url = "https://t.me/macOSautomation"
+    name = "telegram"
     weight = 8
-
-[[menu.icon]]
-    url = "https://www.quora.com/profile/Nikita-Voloboev"
-    name = "quora"
-    weight = 9
-
-[[menu.icon]]
-    url = "https://www.reddit.com/user/nikivi/"
-    name = "reddit-alien"
-    weight = 10
 
 [[menu.icon]]
     url = "mailto:nikita.voloboev@icloud.com"
     name = "envelope-o"
-    weight = 11
+    weight = 9

@@ -41,6 +41,8 @@ Here are some workflows I made that I use myself daily:
 ## My macOS and iOS workflow
 I also share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles).
 
+I made a [Telegram chat](https://t.me/macOSautomation) to discuss all things automation on macOS/iOS.
+
 ## Curated lists
 I mostly focus on curating and maintaining the various [curated lists](https://github.com/learn-anything/curated-lists#readme) which include things like [books](https://github.com/learn-anything/books#readme), [courses](https://github.com/learn-anything/courses#readme), [blogs](https://github.com/learn-anything/blogs#readme) and more.
 
