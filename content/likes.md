@@ -124,6 +124,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Chance favors the prepared mind.
 
+> Do not seek to follow in the footsteps of the wise; seek what they sought.
+
 > When I let go of what I am, I become what I might be.
 
 > Empower people. Embrace change. Eliminate waste.
@@ -141,6 +143,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 > Are you moving one step in 20 directions or 20 steps in one direction?
 
 > Knowledge means knowing where it's written down.
+
+> My whole system of life is keeping at it. The task of life is not to see clearly in the distance but to do the task at hand.
 
 > Premature optimization is the root of all evil.
 
