@@ -33,10 +33,10 @@ Most notably:
 - [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html)
 - [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html)
 - [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code.html)
-- [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/km/km.html)
+- [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro.html)
 - [Safari](https://wiki.nikitavoloboev.xyz/web/browsers/safari.html)
 
-But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
+But there is [many more](https://github.com/nikitavoloboev/my-mac-os#readme).
 
 I hope to build my own app or tool that will join this list soon too.
 
@@ -53,7 +53,7 @@ I am a firm believer that everyone should have their opinion heard in the world.
 
 I know from personal experience just how absurd it is to give away all your data and communication to some entity who then can manage what to do with it. Managing what people should see and what they can talk about. Overviewing every move you make and every word you type or say on their **platform**.
 
-Fortunately there are decentralised platforms out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where **you** are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz/) is one such alternative.
+Fortunately there are decentralised platforms out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where **you** are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz) is one such alternative.
 
 ## Quotes
 I curate a [GitHub list](https://github.com/learn-anything/quotes#readme) of all the interesting quotes I like.
@@ -62,7 +62,7 @@ Below are some of my favourite quotes that I love. Starting with my favourite qu
 
 > We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
 
-If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanwatts.com/). He wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://wiki.nikitavoloboev.xyz/humans/alan-watts.html).
+If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanwatts.com). He wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts) and did [many talks](https://wiki.nikitavoloboev.xyz/humans/alan-watts.html).
 
 > When you change yourself you change the world.
 
@@ -124,7 +124,7 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Chance favors the prepared mind.
 
-> Do not seek to follow in the footsteps of the wise; seek what they sought.
+> Do not seek to follow in the footsteps of the wise. Seek what they sought.
 
 > When I let go of what I am, I become what I might be.
 
