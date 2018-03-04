@@ -12,7 +12,7 @@ I am currently building [Learn Anything](https://learn-anything.xyz), [sharing t
 My current and past projects include:
 
 ## [Learn Anything](https://learn-anything.xyz)
-[Learn Anything](https://learn-anything.xyz/) is an [Open Source](https://github.com/learn-anything/learn-anything) website that searches user curated interactive maps of links and resources to learn anything in the most efficient way.
+[Learn Anything](https://learn-anything.xyz) is an [Open Source](https://github.com/learn-anything/learn-anything) website that searches user curated interactive maps of links and resources to learn anything in the most efficient way.
 
 I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you. A world where everyone knows a programming language and can automate routine and boring things so to not ever do them again.
 
@@ -39,7 +39,7 @@ Here are some workflows I made that I use myself daily:
 - [Markdown parser](https://github.com/nikitavoloboev/markdown-parser) - Parse markdown to grab various things.
 
 ## My macOS and iOS workflow
-I share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles).
+I share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and [iOS](https://github.com/nikitavoloboev/my-ios#readme) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles).
 
 I made a [Telegram group](https://t.me/macOSautomation) to discuss all things automation on macOS/iOS.
 
