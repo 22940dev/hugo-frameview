@@ -116,7 +116,7 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > To attain knowledge, add things everyday. To attain wisdom, remove things every day.
 
-> When you get the message, hang up the phone.
+> Psychedelic experience is only a glimpse of genuine mystical insight, but a glimpse which can be matured and deepened by the various ways of meditation in which drugs are no longer necessary or useful. If you get the message, hang up the phone. For psychedelic drugs are simply instruments, like microscopes, telescopes, and telephones. The biologist does not sit with eye permanently glued to the microscope, he goes away and works on what he has seen...
 
 > Mistakes are the portals of discovery.
 
