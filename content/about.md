@@ -19,9 +19,9 @@ weight = "2"
 
 🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw), share my [music playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists.html) and occasionally [stream myself coding](https://twitch.tv/nikitavoloboev).
 
-💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os) and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
+💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
-🎆 I am looking for interesting work opportunities in web, desktop or mobile development. My CV can be found [online](https://www.linkedin.com/in/nikitavoloboev).
+🎆 I am looking for interesting work opportunities. My CV can be found [online](https://www.linkedin.com/in/nikitavoloboev).
 
 📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com).
 

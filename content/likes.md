@@ -164,6 +164,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self.
 
+> It is difficult to get a man to understand something, when his salary depends on his not understanding it.
+
 > Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
 
 > Only the shaman knows that culture is a game. Everyone else takes it seriously. That’s how he can do his magic.
