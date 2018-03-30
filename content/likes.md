@@ -136,6 +136,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 
+> If you want to teach someone why to use an abstraction, you should first make them feel the pain of not having it.
+
 > Sometimes our tools do what we tell them to. Other times, we adapt ourselves to our tools’ requirements.
 
 > Are you moving one step in 20 directions or 20 steps in one direction?
