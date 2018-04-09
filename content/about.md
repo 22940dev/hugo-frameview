@@ -9,7 +9,7 @@ weight = "2"
 
 👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
 
-🔭 I am creating an [Open Source](https://github.com/learn-anything/learn-anything) Website for learning any topic on Earth with [Interactive Maps](https://learn-anything.xyz).
+🔭 Currently creating [Learn Anything](https://learn-anything.xyz), an [Open Source](https://github.com/learn-anything/learn-anything) website for learning any topic on Earth with Interactive Maps.
 
 🚀 With it, I want to [accelerate the way in which people learn](https://github.com/learn-anything/learn-anything/wiki/White-Paper) by providing the most efficient paths for learning anything.
 
@@ -29,4 +29,4 @@ weight = "2"
 
 💛 You can support what I do on [Patreon](http://patreon.com/nikitavoloboev). Thank you.
 
-💬 Feel free to ask me [any question you have](https://github.com/nikitavoloboev/ama#readme) or just [send a message](mailto:nikita.voloboev@icloud.com) if you want to make a new friend. My PGP key can be found [here](https://keybase.io/nikitavoloboev).
+💬 Feel free to ask me [any question you have](https://github.com/nikitavoloboev/ama#readme) or just [send a message](mailto:nikita.voloboev@icloud.com) if you want to make a new friend. [PGP key](https://keybase.io/nikitavoloboev).
