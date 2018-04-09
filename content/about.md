@@ -9,7 +9,7 @@ weight = "2"
 
 👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
 
-🔭 Currently making [Learn Anything](https://learn-anything.xyz), an [Open Source](https://github.com/learn-anything/learn-anything) website for learning any topic on Earth with Interactive Maps.
+🔭 Currently making [Learn Anything](https://learn-anything.xyz), an [Open Source](https://github.com/learn-anything/learn-anything) website for learning any topic on Earth as fast as possible.
 
 🚀 With it, I want to [accelerate the way in which people learn](https://github.com/learn-anything/learn-anything/wiki/White-Paper) by providing the most efficient paths for learning anything.
 
