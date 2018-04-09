@@ -9,9 +9,7 @@ weight = "2"
 
 👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
 
-🔭 Currently making [Learn Anything](https://learn-anything.xyz), an [Open Source](https://github.com/learn-anything/learn-anything) website for learning any topic on Earth as fast as possible.
-
-🚀 With it, I want to [accelerate the way in which people learn](https://github.com/learn-anything/learn-anything/wiki/White-Paper) by providing the most efficient paths for learning anything.
+🔭 Currently making [Learn Anything](https://learn-anything.xyz), an [Open Source](https://github.com/learn-anything/learn-anything) website for [learning any topic on Earth as fast as possible](https://github.com/learn-anything/learn-anything/wiki/White-Paper).
 
 🖋 I love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or take a look at my constantly expanding [personal wiki](https://wiki.nikitavoloboev.xyz) where I share [everything I know](https://wiki.nikitavoloboev.xyz/sharing/everything-I-know.html).
 
