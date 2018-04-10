@@ -13,7 +13,7 @@ I have been [vegeterian](https://medium.com/@NikitaVoloboev/what-it-means-to-liv
 I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
 
 ## Sharing
-I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I make and I am open about most things I do and like as can be seen in this page already.
+I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I make and I am open about most things I do and like.
 
 I share most of the code I write and release it as [Open Source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for all other people to use and reuse as they like.
 

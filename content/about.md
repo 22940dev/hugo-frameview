@@ -11,11 +11,11 @@ weight = "2"
 
 🔭 Currently building [Learn Anything](https://learn-anything.xyz), an [Open Source](https://github.com/learn-anything/learn-anything) website for [learning any topic on Earth as fast as possible](https://github.com/learn-anything/learn-anything/wiki/White-Paper).
 
-🖋 I love writing. You can read all that I have said on [Medium](https://medium.com/@NikitaVoloboev) or take a look at my constantly expanding [personal wiki](https://wiki.nikitavoloboev.xyz) where I share [everything I know](https://wiki.nikitavoloboev.xyz/sharing/everything-I-know.html).
+🖋 I love writing. You can read all the articles I wrote on [Medium](https://medium.com/@NikitaVoloboev) or take a look through [my personal wiki](https://wiki.nikitavoloboev.xyz) where I share [everything I know](https://wiki.nikitavoloboev.xyz/sharing/everything-I-know.html).
 
-🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) on [GitHub](https://github.com/nikitavoloboev) and you can see the infrequent photos I take on [Instagram](https://www.instagram.com/nikitavoloboev).
+🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) on [GitHub](https://github.com/nikitavoloboev) and you can see photographs I took on [Instagram](https://www.instagram.com/nikitavoloboev).
 
-🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw), share my [music playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists.html) and occasionally [stream myself coding](https://twitch.tv/nikitavoloboev).
+🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw), share [music playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists.html) and occasionally [stream myself coding](https://twitch.tv/nikitavoloboev).
 
 💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
