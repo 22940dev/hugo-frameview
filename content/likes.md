@@ -180,6 +180,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Don’t rely on someone else for your self-worth; only you can be responsible for that.
 
+> Whoever you are, wherever you are, your perspective is unique, and worth sharing.
+
 > A programmer will be able to understand a problem in full only when he has solved it at least once.
 
 > Know how to solve every problem that has been solved.
