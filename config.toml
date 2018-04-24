@@ -51,12 +51,12 @@ googleAnalytics = "UA-74470910-1"
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 [[menu.icon]]
-    url = "https://twitter.com/nikitavoloboev/"
+    url = "https://twitter.com/nikitavoloboev"
     name = "twitter"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/nikitavoloboev/"
+    url = "https://github.com/nikitavoloboev"
     name = "github"
     weight = 2
 
@@ -66,7 +66,7 @@ googleAnalytics = "UA-74470910-1"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.instagram.com/nikitavoloboev/"
+    url = "https://www.instagram.com/nikitavoloboev"
     name = "instagram"
     weight = 4
 
