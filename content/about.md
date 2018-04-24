@@ -19,7 +19,7 @@ weight = "2"
 
 💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
-🎆 I am looking for interesting work opportunities. My CV can be found on [LinkedIn](https://www.linkedin.com/in/nikitavoloboev) and as [PDF](http://nikitavoloboev.xyz/cv.pdf).
+🎆 I am looking for interesting job opportunities and available for freelance work. My CV can be found on [LinkedIn](https://www.linkedin.com/in/nikitavoloboev) and as [PDF](http://nikitavoloboev.xyz/cv.pdf).
 
 📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com).
 
