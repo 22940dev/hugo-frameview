@@ -204,6 +204,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Progress, not perfection.
 
+> Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.
+
 > It’s dark because you are trying too hard. Lightly child, lightly. Learn to do everything lightly. Yes, feel lightly even though you’re feeling deeply. Just lightly let things happen and lightly cope with them. So throw away your baggage and go forward. There are quicksands all about you, sucking at your feet, trying to suck you down into fear and self-pity and despair. That’s why you must walk so lightly. Lightly my darling...
 
 > Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
