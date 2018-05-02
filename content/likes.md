@@ -170,6 +170,10 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
 
+> Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it. They just saw something. It seemed obvious to them after a while.
+
+> When you're a carpenter making a beautiful chest of drawers, you're not going to use a piece of plywood on the back, even though it faces the wall and nobody will see it. You'll know it's there, so you're going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.
+
 > Only the shaman knows that culture is a game. Everyone else takes it seriously. That’s how he can do his magic.
 
 > The dose makes the poison.
