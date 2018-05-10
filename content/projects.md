@@ -46,7 +46,7 @@ I made a [Telegram group](https://t.me/macOSautomation) to discuss all things au
 ## Curated lists
 I mostly focus on curating and maintaining the various [curated lists](https://github.com/learn-anything/curated-lists#readme) which include things like [books](https://github.com/learn-anything/books#readme), [courses](https://github.com/learn-anything/courses#readme), [blogs](https://github.com/learn-anything/blogs#readme) and more.
 
-And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting#readme) and a list of things to do and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
+And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting#readme) and a list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
 
 ## Other things
 I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html), reading [books](https://wiki.nikitavoloboev.xyz/books/books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html), [making videos](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html) and [writing code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html).
