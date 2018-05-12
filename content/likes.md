@@ -200,7 +200,7 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > You are life having a human experience, not a human having a life experience.
 
-> People have lot invested in this ride.
+> People have a lot invested in this ride.
 
 > You are an extra in everyone else's movie.
 
