@@ -56,7 +56,7 @@ Fortunately there are decentralised alternatives out there where no one restrict
 ## Simplicity
 I love using only what I need and nothing else. If an item brings no value to my life, I get rid of it.
 
-I love focusing on solving problems that matter to me. Cutting out any noise or distractions in the process. I
+I love [focusing on solving problems](https://wiki.nikitavoloboev.xyz/focusing/focusing.html) that matter to me. Cutting out any noise or distractions in the process.
 
 ## Quotes
 Below are some of my favourite quotes that I love. Starting with my favourite quote of all by Alan Watts.
