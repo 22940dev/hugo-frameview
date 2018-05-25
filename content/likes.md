@@ -41,9 +41,6 @@ But there is [many more](https://github.com/nikitavoloboev/my-mac-os#readme).
 
 I hope to build my own app or tool that will join this list soon too.
 
-### Alfred
-Of most of software I like to use, Alfred takes the top place. I love extending this awesome launcher with workflows of my own. I use [AwGo](https://github.com/deanishe/awgo) library for writing nearly all my workflows and I share all the workflows I made [here](https://github.com/learn-anything/alfred-workflows#readme).
-
 ## Automation
 I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
 
@@ -55,6 +52,11 @@ I am a firm believer that everyone should have their opinion heard in the world.
 I know from personal experience just how absurd it is to give away all your data and communication to some entity who then can manage what to do with it. Managing what people should see and what they can talk about. Overviewing every move you make and every word you type or say on their **platform**.
 
 Fortunately there are decentralised alternatives out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where **you** are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz) and [Matrix](https://matrix.org) are these alternatives.
+
+## Simplicity
+I love using only what I need and nothing else. If an item brings no value to my life, I get rid of it.
+
+I love focusing on solving problems that matter to me. Cutting out any noise or distractions in the process. I
 
 ## Quotes
 Below are some of my favourite quotes that I love. Starting with my favourite quote of all by Alan Watts.
