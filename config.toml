@@ -2,7 +2,6 @@ baseURL = "https://nikitavoloboev.xyz"
 languageCode = "en-us"
 title = "Nikita Voloboev"
 theme = "minimal"
-googleAnalytics = "UA-74470910-1"
 
 [params]
     author = "Nikita Voloboev"
