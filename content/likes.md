@@ -31,10 +31,9 @@ Most notably:
 
 - [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred.html)
 - [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html)
-- [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html)
 - [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code.html)
 - [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro.html)
-- [Safari](https://wiki.nikitavoloboev.xyz/web/browsers/safari.html)
+- [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html)
 - [Nix](https://wiki.nikitavoloboev.xyz/package-managers/nix.html)
 
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os#readme).
