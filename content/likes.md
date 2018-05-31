@@ -24,7 +24,7 @@ I share my knowledge and experiences by writing about it in my [blog](https://me
 I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
 
 ## Photographs
-I love [making photographs](https://www.instagram.com/nikitavoloboev) and collecting [beautiful photographs and images](https://instagram.com/prettiways).
+I love [making photographs](https://www.instagram.com/nikitavoloboev) and collecting [beautiful pictures](https://instagram.com/prettiways).
 
 ## Great Software
 Most notably:
