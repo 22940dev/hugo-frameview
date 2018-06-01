@@ -15,7 +15,7 @@ weight = "2"
 
 🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) on [GitHub](https://github.com/nikitavoloboev) and you can see photos I took on [Instagram](https://www.instagram.com/nikitavoloboev).
 
-🎥 I also make [educational YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share [music playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
+🎥 I also make educational [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share [music playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
 
 💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
