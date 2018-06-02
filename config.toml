@@ -7,14 +7,10 @@ theme = "minimal"
     author = "Nikita Voloboev"
     description = "Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things. <br/>Building an [Open Source](https://github.com/learn-anything/learn-anything) Website to [Learn Anything](https://learn-anything.xyz/) with Interactive Maps."
     copyright = " "
-    githubUsername = "nikitavoloboev"
     accent = "#E34E47"
     showBorder = true
     backgroundColor = ""
     font = "Quicksand" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
     url = "/"
