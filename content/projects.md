@@ -26,7 +26,7 @@ I love programming in Go and making [Alfred workflows](https://github.com/learn-
 Here are some workflows I made that I use myself daily:
 
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (easily extendable list).
-- [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create various web submissions (Stack exchange, Reddit and more).
+- [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create web submissions (Stack exchange, Reddit and more).
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz).
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my bookmarks and notes on the web instantly.
 - [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome#readme) in seconds.
