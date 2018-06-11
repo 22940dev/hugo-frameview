@@ -27,4 +27,4 @@ weight = "2"
 
 💛 You can support what I do on [Patreon](http://patreon.com/nikitavoloboev). Thank you.
 
-💬 Feel free to ask me [any question you have](https://github.com/nikitavoloboev/ama#readme) or just [send a message](mailto:nikita.voloboev@icloud.com) if you want to make a new friend. [PGP key](https://keybase.io/nikitavoloboev).
+💬 Feel free to ask me [any question you have](https://github.com/nikitavoloboev/ama#readme) or just [send a message](https://twitter.com/nikitavoloboev) if you want to make a new friend.
