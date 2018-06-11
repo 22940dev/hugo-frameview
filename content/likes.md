@@ -8,7 +8,7 @@ weight = "6"
 +++
 
 ## Animals
-I [stopped eating meat](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) for over 5 years now and it has been one of the best decisions I made thus far in my life.
+I [stopped eating meat](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) 5 years ago and it has been one of the best decisions I made thus far in my life.
 
 I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
 
