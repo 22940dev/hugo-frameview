@@ -8,14 +8,14 @@ weight = "6"
 +++
 
 ## Animals
-I [stopped eating meat](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) 5 years ago and it has been one of the best decisions I made thus far in my life.
+I stopped eating meat 5 years ago and it has been one of the best decisions I made thus far in my life.
 
-I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
+I think everyone has a choice nowadays of what they can eat and [animal suffering can be avoided](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl).
 
 ## Sharing
 I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I make and I am open about most things I do and like.
 
-I share most of the code I write and release it as [Open Source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for all other people to use and reuse as they like.
+I share most of the code I write and release it as [open source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for all other people to use and reuse as they like.
 
 ## Writing
 I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
