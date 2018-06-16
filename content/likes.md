@@ -53,7 +53,7 @@ I know from personal experience just how absurd it is to give away all your data
 Fortunately there are decentralised alternatives out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where **you** are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz) and [Matrix](https://matrix.org) are these alternatives.
 
 ## Simplicity
-I love using only what I need and nothing else. If an item brings no value to my life, I get rid of it.
+I love using only what I need and nothing else. If something brings no value to my life, I get rid of it.
 
 I love [focusing on solving problems](https://wiki.nikitavoloboev.xyz/focusing/focusing.html) that matter to me. Cutting out any noise or distractions in the process.
 
