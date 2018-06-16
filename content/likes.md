@@ -148,8 +148,6 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 
 > My whole system of life is keeping at it. The task of life is not to see clearly in the distance but to do the task at hand.
 
-> You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, “How did he do it? He must be a genius!”
-
 > Premature optimization is the root of all evil.
 
 > An unexamined life is not worth living.
@@ -191,6 +189,8 @@ If you don't know Alan Watts, I reccomend you [check who he is](http://www.alanw
 > Whoever you are, wherever you are, your perspective is unique, and worth sharing.
 
 > A programmer will be able to understand a problem in full only when he has solved it at least once.
+
+> You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, “How did he do it? He must be a genius!”
 
 > Know how to solve every problem that has been solved.
 
