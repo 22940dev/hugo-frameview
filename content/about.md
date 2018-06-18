@@ -21,10 +21,10 @@ weight = "2"
 
 🎆 I am looking for interesting work opportunities. My CV can be found [here](http://nikitavoloboev.xyz/cv.pdf).
 
-📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@icloud.com).
+📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@gmail.com).
 
 🍀 If you want to know even more about me, you can [explore my wiki](https://wiki.nikitavoloboev.xyz) or even [search through it](https://github.com/nikitavoloboev/alfred-my-mind), if you like.
 
 💛 You can support what I do on [Patreon](http://patreon.com/nikitavoloboev). Thank you.
 
-💬 Feel free to [ask me any question](https://github.com/nikitavoloboev/ama#readme) you have or [send a message](mailto:nikita.voloboev@icloud.com) if you want to make a new friend. [PGP key](https://keybase.io/nikitavoloboev).
+💬 Feel free to [ask me any question](https://github.com/nikitavoloboev/ama#readme) you have or [send a message](mailto:nikita.voloboev@gmail.com) if you want to make a new friend. [PGP key](https://keybase.io/nikitavoloboev).

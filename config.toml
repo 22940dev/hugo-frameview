@@ -81,6 +81,6 @@ theme = "minimal"
     weight = 7
 
 [[menu.icon]]
-    url = "mailto:nikita.voloboev@icloud.com"
+    url = "mailto:nikita.voloboev@gmail.com"
     name = "envelope-o"
     weight = 9
