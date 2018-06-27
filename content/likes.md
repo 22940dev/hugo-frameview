@@ -21,7 +21,7 @@ I share most of the code I write and release it as [open source](https://wiki.ni
 I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
 ## Music
-I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html). And I made a [Telegram group](https://t.me/finestmusic) to share some awesome tunes.
+I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html). And I made a [Telegram group](https://t.me/finestmusic) to share awesome music.
 
 ## Photographs
 I love [making photographs](https://www.instagram.com/nikitavoloboev) and collecting [beautiful pictures](https://instagram.com/prettiways).
