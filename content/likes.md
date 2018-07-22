@@ -8,7 +8,7 @@ weight = "6"
 +++
 
 ## Animals
-Becoming conscious of the impact my decisions have on this planet and other living things and eating only whole food plant based diet has been one of the best decisions I made thus far in my life.
+Becoming conscious of the impact my decisions have on this planet and other living beings and eating only whole food plant based diet has been one of the best decisions I made thus far in my life.
 
 I think everyone has a choice nowadays of what they can eat and [animal suffering can be avoided](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl).
 
