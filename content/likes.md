@@ -18,7 +18,7 @@ I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I 
 I share most of the code I write and release it as [open source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for everyone to use and reuse as they like.
 
 ## Writing
-I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@NikitaVoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
+I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@nikitavoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
 ## Music
 I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
