@@ -9,9 +9,9 @@ weight = "2"
 
 👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
 
-🔭 Currently building [Learn Anything](https://learn-anything.xyz), an [open source](https://github.com/learn-anything/learn-anything) website for [learning any topic as fast as possible](https://github.com/learn-anything/learn-anything/wiki/White-Paper).
+🔭 Currently building [Learn Anything](https://learn-anything.xyz), an [open source](https://github.com/learn-anything/learn-anything#readme) website for [learning any topic as fast as possible](https://github.com/learn-anything/learn-anything/wiki/White-Paper).
 
-🖋 I love writing. You can read [all the articles](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) I wrote on [Medium](https://medium.com/@NikitaVoloboev) or take a look through [my personal wiki](https://wiki.nikitavoloboev.xyz) where I share [everything I know](https://wiki.nikitavoloboev.xyz/sharing/everything-I-know.html).
+🖋 I love writing. You can read [all the articles](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) I wrote on [Medium](https://medium.com/@nikitavoloboev) or take a look through [my personal wiki](https://wiki.nikitavoloboev.xyz) where I share [everything I know](https://wiki.nikitavoloboev.xyz/sharing/everything-I-know.html).
 
 🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) on [GitHub](https://github.com/nikitavoloboev) and you can see photos I took on [Instagram](https://www.instagram.com/nikitavoloboev).
 
