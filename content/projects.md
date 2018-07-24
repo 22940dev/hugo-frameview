@@ -12,7 +12,7 @@ I am currently making [Learn Anything](https://learn-anything.xyz), [sharing thi
 My current and past projects include:
 
 ## Learn Anything
-[Learn Anything](https://learn-anything.xyz) is an [open source](https://github.com/learn-anything/learn-anything) website to learn any topic as fast as possible.
+[Learn Anything](https://learn-anything.xyz) is an [open source](https://github.com/learn-anything/learn-anything#readme) website to learn any topic as fast as possible.
 
 I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you. A world where everyone knows a programming language and can automate routine and boring things so to not ever do them again.
 
@@ -25,21 +25,21 @@ I love programming in Go and making [Alfred workflows](https://github.com/learn-
 
 Here are some workflows I made that I use myself daily:
 
-- [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website (easily extendable list).
-- [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create web submissions (Stack exchange, Reddit and more).
-- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz).
-- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my bookmarks and notes.
-- [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome#readme) in seconds.
-- [Small workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
+- [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches#readme) - Search through any website (easily extendable list).
+- [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share#readme) - Create web submissions (Stack exchange, Reddit and more).
+- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything#readme) - Search through all topics in [Learn Anything](https://learn-anything.xyz).
+- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme) - Search through my bookmarks and notes.
+- [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists#readme) - Browse all [awesome lists](https://github.com/sindresorhus/awesome#readme) in seconds.
+- [Small workflows](https://github.com/nikitavoloboev/small-workflows#readme) - Small Alfred workflows I use.
 
 ## CLI tools
-- [License Up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
+- [License Up](https://github.com/nikitavoloboev/license-up#readme) - Create a license quickly for a given name.
 
 ## Go libraries
-- [Markdown parser](https://github.com/nikitavoloboev/markdown-parser) - Parse markdown to grab various things.
+- [Markdown parser](https://github.com/nikitavoloboev/markdown-parser#readme) - Parse markdown to grab various things.
 
 ## My macOS and iOS workflow
-I share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and [iOS](https://github.com/nikitavoloboev/my-ios#readme) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles).
+I share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and [iOS](https://github.com/nikitavoloboev/my-ios#readme) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles#readme).
 
 And I made a [Telegram group](https://t.me/macOSautomation) to discuss all things automation on macOS/iOS.
 
