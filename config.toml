@@ -18,7 +18,7 @@ theme = "minimal"
     weight = 1
 
 [[menu.main]]
-    url = "https://medium.com/@NikitaVoloboev"
+    url = "https://medium.com/@nikitavoloboev"
     name = "Blog"
     weight = 4
 
