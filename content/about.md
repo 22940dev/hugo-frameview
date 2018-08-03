@@ -19,10 +19,6 @@ weight = "2"
 
 💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
-🎆 I am looking for interesting work opportunities. My CV can be found [here](http://nikitavoloboev.xyz/cv.pdf).
-
-📧 If you are interested in hiring me, please [email me](mailto:nikita.voloboev@gmail.com).
-
 🍀 If you want to know even more about me, you can [explore my wiki](https://wiki.nikitavoloboev.xyz) or even [search through it](https://github.com/nikitavoloboev/alfred-my-mind), if you like.
 
 💛 You can support what I do on [Patreon](http://patreon.com/nikitavoloboev). Thank you.
