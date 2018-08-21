@@ -11,7 +11,7 @@ weight = "2"
 
 📚 Currently making [Learn Anything](https://learn-anything.xyz), an [open source](https://github.com/learn-anything/learn-anything#readme) website for [learning any topic as fast as possible](https://github.com/learn-anything/learn-anything/wiki/White-Paper).
 
-🌎 I am also helping make [Deedmob](https://www.deedmob.com), an online volunteering platform empowering everyone to do more good.
+🌎 I am also helping build [Deedmob](https://www.deedmob.com), an online volunteering platform empowering everyone to do more good.
 
 🖋 I love writing. You can read [all the articles](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) I wrote on [Medium](https://medium.com/@nikitavoloboev) or take a look through [my personal wiki](https://wiki.nikitavoloboev.xyz) where I share [everything I know](https://wiki.nikitavoloboev.xyz/sharing/everything-I-know.html).
 
