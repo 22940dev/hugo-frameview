@@ -34,7 +34,7 @@ Here are some workflows I made that I use myself daily:
 
 ## CLI tools
 - [License Up](https://github.com/nikitavoloboev/license-up#readme) - Create a license quickly for a given name.
-- [Karabiner Generator](https://github.com/nikitavoloboev/karabiner-dsl#readme) - Small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
+- [Karabiner Generator](https://github.com/nikitavoloboev/karabiner-dsl#readme) - DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
 
 ## Go libraries
 - [Markdown parser](https://github.com/nikitavoloboev/markdown-parser#readme) - Parse markdown to grab various things.
