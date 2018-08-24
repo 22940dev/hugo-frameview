@@ -140,6 +140,8 @@ If you don't know Alan Watts, I recommend you [check who he is](http://www.alanw
 
 > If you want to teach someone why to use an abstraction, you should first make them feel the pain of not having it.
 
+> When one teaches, two learn.
+
 > Sometimes our tools do what we tell them to. Other times, we adapt ourselves to our tools’ requirements.
 
 > Are you moving one step in 20 directions or 20 steps in one direction?
