@@ -34,7 +34,7 @@ Most notably:
 - [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code.html)
 - [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro.html)
 - [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html)
-- [Nix](https://wiki.nikitavoloboev.xyz/package-managers/nix.html)
+- [Nix](https://wiki.nikitavoloboev.xyz/package-managers/nix/nix.html)
 
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os#readme).
 
