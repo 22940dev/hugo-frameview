@@ -158,6 +158,8 @@ If you don't know Alan Watts, I recommend you [check who he is](http://www.alanw
 
 > The less I needed, the better I felt.
 
+> Muddy water is best cleared by leaving it alone.
+
 > Humility is not thinking less of yourself, but thinking of yourself less.
 
 > It’s not about having time, it’s about making time.
@@ -179,6 +181,8 @@ If you don't know Alan Watts, I recommend you [check who he is](http://www.alanw
 > When you're a carpenter making a beautiful chest of drawers, you're not going to use a piece of plywood on the back, even though it faces the wall and nobody will see it. You'll know it's there, so you're going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.
 
 > Only the shaman knows that culture is a game. Everyone else takes it seriously. That’s how he can do his magic.
+
+> Zen does not confuse spirituality with thinking about God while one is peeling potatoes. Zen spirituality is just to peel the potatoes.
 
 > The dose makes the poison.
 
