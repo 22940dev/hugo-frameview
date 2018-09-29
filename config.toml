@@ -5,7 +5,7 @@ theme = "minimal"
 
 [params]
     author = "Nikita Voloboev"
-    description = "Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things. <br/>Building [Learn Anything](https://learn-anything.xyz/), [Deedmob](https://www.deedmob.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github.html)"
+    description = "Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things. <br/>Building [Learn Anything](https://learn-anything.xyz/), [Deedmob](https://www.deedmob.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github.html)."
     copyright = " "
     accent = "#E34E47"
     showBorder = true
