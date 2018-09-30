@@ -9,7 +9,7 @@ theme = "minimal"
     copyright = " "
     accent = "#E34E47"
     showBorder = true
-    backgroundColor = "#18222D"
+    backgroundColor = ""
     font = "Quicksand" # should match the name on Google Fonts!
 
 [[menu.main]]
