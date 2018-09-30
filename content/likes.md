@@ -8,25 +8,31 @@ weight = "6"
 +++
 
 ## Animals
+
 Becoming conscious of the impact my decisions have on this planet and other living beings and eating only [whole food plant based diet](https://wiki.nikitavoloboev.xyz/health/nutrition/nutrition.html) has been one of the best decisions I made thus far in my life.
 
 I think everyone has a choice nowadays of what they can eat and [animal suffering can be avoided](https://medium.com/@nikitavoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl).
 
 ## Sharing
+
 I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I make and I am open about most things I do and like.
 
 I share most of the code I write [open source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for everyone to use and reuse as they like.
 
 ## Writing
+
 I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@nikitavoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
 ## Music
+
 I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
 
 ## Photographs
+
 I love [making photographs](https://www.instagram.com/nikitavoloboev) and collecting [beautiful pictures](https://instagram.com/prettiways).
 
 ## Great Software
+
 Most notably:
 
 - [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred.html)
@@ -41,11 +47,13 @@ But there is [many more](https://github.com/nikitavoloboev/my-mac-os#readme).
 I hope to build my own app or tool that will join this list soon too.
 
 ## Automation
+
 I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
 
 Of course automation is not all and everything that I do but it greatly increases my satisfaction and happiness as I love focusing on solving problems and making new and interesting things rather than repeating myself over and over again.
 
 ## Freedom
+
 I am a firm believer that everyone should have their opinion heard in the world. I think the current trend of monopolizing all communication and all human activity under few companies is frightening.
 
 I know from personal experience just how absurd it is to give away all your data and communication to some entity who then can manage what to do with it. Managing what people should see and what they can talk about. Overviewing every move you make and every word you type or say on their **platform**.
@@ -53,11 +61,13 @@ I know from personal experience just how absurd it is to give away all your data
 Fortunately there are decentralized alternatives out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where **you** are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz) and [Matrix](https://matrix.org) are these alternatives.
 
 ## Simplicity
+
 I love using only what I need and nothing else. If something brings no value to my life, I get rid of it.
 
 I love [focusing on solving problems](https://wiki.nikitavoloboev.xyz/focusing/focusing.html) that matter to me. Cutting out any noise or distractions in the process.
 
 ## Quotes
+
 Below are some of my favorite quotes that I love. Starting with my favorite quote of all by Alan Watts.
 
 > We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
