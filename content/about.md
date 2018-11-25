@@ -1,6 +1,6 @@
 +++
 type = "static"
-page = "static/single"
+page = "static/single.html"
 title = "About"
 description = "Nikita Voloboev"
 menu = "main"
