@@ -1,21 +1,21 @@
 +++
 type = "static"
-page = "static/single.html"
+page = "static/single"
 title = "About"
 description = "Nikita Voloboev"
 menu = "main"
 weight = "2"
 +++
 
-👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) things I have built with the world.
+👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing) things I have built with the world.
 
 📚 Currently making [Learn Anything](https://learn-anything.xyz), an [open source](https://github.com/learn-anything/learn-anything#readme) website for [learning any topic as fast as possible](https://github.com/learn-anything/learn-anything/wiki/White-Paper).
 
-🖋 I love writing. You can read [all the articles](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) I wrote on [Medium](https://medium.com/@nikitavoloboev) or take a look through [my personal wiki](https://wiki.nikitavoloboev.xyz) where I share [everything I know](https://wiki.nikitavoloboev.xyz/sharing/everything-I-know.html).
+🖋 I love writing. You can read [all the articles](https://wiki.nikitavoloboev.xyz/sharing/my-articles) I wrote on [Medium](https://medium.com/@nikitavoloboev) or take a look through [my personal wiki](https://wiki.nikitavoloboev.xyz) where I share [everything I know](https://wiki.nikitavoloboev.xyz/sharing/everything-I-know).
 
-🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) on [GitHub](https://github.com/nikitavoloboev) and you can see photos I took on [Instagram](https://www.instagram.com/nikitavoloboev).
+🌐 I share my thoughts on [Twitter](https://twitter.com/nikitavoloboev). I share my [code](https://wiki.nikitavoloboev.xyz/sharing/my-github) on [GitHub](https://github.com/nikitavoloboev) and you can see photos I took on [Instagram](https://www.instagram.com/nikitavoloboev).
 
-🎥 I also make educational [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share [music playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
+🎥 I also make educational [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share [music playlists](https://wiki.nikitavoloboev.xyz/music/music-playlists).
 
 💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
