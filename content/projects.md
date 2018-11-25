@@ -7,7 +7,7 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently making [Learn Anything](https://learn-anything.xyz), [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html), writing a [wiki](https://wiki.nikitavoloboev.xyz) and [blog](https://medium.com/@nikitavoloboev) and building [ideas](https://trello.com/b/alB1ryRP).
+I am currently making [Learn Anything](https://learn-anything.xyz), [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing), writing a [wiki](https://wiki.nikitavoloboev.xyz) and [blog](https://medium.com/@nikitavoloboev) and building [ideas](https://trello.com/b/alB1ryRP).
 
 My current and past projects include:
 
@@ -56,4 +56,4 @@ And I made a curated list of [privacy respecting tools and services](https://git
 
 ## Other things
 
-I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html), reading [books](https://wiki.nikitavoloboev.xyz/books/books.html) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers.html), [making videos](https://wiki.nikitavoloboev.xyz/sharing/my-youtube.html) and [writing code](https://wiki.nikitavoloboev.xyz/sharing/my-github.html).
+I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://wiki.nikitavoloboev.xyz/sharing/my-articles), reading [books](https://wiki.nikitavoloboev.xyz/books/books) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers/research-papers), [making videos](https://wiki.nikitavoloboev.xyz/sharing/my-youtube) and [writing code](https://wiki.nikitavoloboev.xyz/sharing/my-github).
