@@ -9,15 +9,15 @@ weight = "6"
 
 ## Animals
 
-Becoming conscious of the impact my decisions have on this planet and other living beings and eating only [whole food plant based diet](https://wiki.nikitavoloboev.xyz/health/nutrition/nutrition.html) has been one of the best decisions I made thus far in my life.
+Becoming conscious of the impact my decisions have on this planet and other living beings and eating only [whole food plant based diet](https://wiki.nikitavoloboev.xyz/health/nutrition/nutrition) has been one of the best decisions I made thus far in my life.
 
 I think everyone has a choice nowadays of what they can eat and [animal suffering can be avoided](https://medium.com/@nikitavoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl).
 
 ## Sharing
 
-I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing.html) I make and I am open about most things I do and like.
+I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing) I make and I am open about most things I do and like.
 
-I share most of the code I write [open source](https://wiki.nikitavoloboev.xyz/sharing/my-github.html) for everyone to use and reuse as they like.
+I share most of the code I write [open source](https://wiki.nikitavoloboev.xyz/sharing/my-github) for everyone to use and reuse as they like.
 
 ## Writing
 
@@ -25,7 +25,7 @@ I share my knowledge and experiences by writing about it in my [blog](https://me
 
 ## Music
 
-I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists.html).
+I love listening to [new and interesting music](https://open.spotify.com/user/nikitavoloboev) and I curate [many playlists of music I like](https://wiki.nikitavoloboev.xyz/music/music-playlists).
 
 ## Photographs
 
@@ -35,12 +35,12 @@ I love [making photographs](https://www.instagram.com/nikitavoloboev) and collec
 
 Most notably:
 
-- [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred.html)
-- [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html)
-- [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code.html)
-- [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro.html)
-- [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html)
-- [Nix](https://wiki.nikitavoloboev.xyz/package-managers/nix/nix.html)
+- [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred)
+- [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner)
+- [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code)
+- [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro)
+- [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2do)
+- [Nix](https://wiki.nikitavoloboev.xyz/package-managers/nix/nix)
 
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os#readme).
 
@@ -64,7 +64,7 @@ Fortunately there are [decentralized alternatives](https://github.com/nikitavolo
 
 I love using only what I need and nothing else. If something brings no value to my life, I get rid of it.
 
-I love [focusing on solving problems](https://wiki.nikitavoloboev.xyz/focusing/focusing.html) that matter to me. Cutting out any noise or distractions in the process.
+I love [focusing on solving problems](https://wiki.nikitavoloboev.xyz/focusing/focusing) that matter to me. Cutting out any noise or distractions in the process.
 
 ## Quotes
 
@@ -72,7 +72,7 @@ Below are some of my favorite quotes that I love. Starting with my favorite quot
 
 > We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
 
-If you don't know Alan Watts, I recommend you [check who he is](http://www.alanwatts.com). He wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts) and did [many talks](https://wiki.nikitavoloboev.xyz/humans/alan-watts.html).
+If you don't know Alan Watts, I recommend you [check who he is](http://www.alanwatts.com). He wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts) and did [many talks](https://wiki.nikitavoloboev.xyz/humans/alan-watts).
 
 > When you change yourself you change the world.
 
