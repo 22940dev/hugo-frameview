@@ -19,7 +19,7 @@ I genuinely believe it can change the world for the better. Imagine a world wher
 
 A world where knowledge and knowledge sharing is respected and encouraged and everyone can leverage on the knowledge of all the people of the world.
 
-The most awesome thing about this project is that it is run by a community of awesome people and [anyone can contribute](https://github.com/learn-anything/learn-anything/blob/dev/CONTRIBUTING.md#readme) to making it better for everyone.
+The most awesome thing about this project is that it is run by a community of awesome people and [anyone can contribute](https://github.com/learn-anything/learn-anything/blob/master/.github/CONTRIBUTING.md#readme) to making it better for everyone.
 
 ## Alfred Workflows
 
