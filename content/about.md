@@ -7,7 +7,7 @@ menu = "main"
 weight = "2"
 +++
 
-👋 I love [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing/sharing) things I have built with the world.
+👋 I love [making](../projects) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things I have built with the world.
 
 📚 Currently making [Learn Anything](https://learn-anything.xyz), an [open source](https://github.com/learn-anything/learn-anything#readme) website for [learning any topic as fast as possible](https://github.com/learn-anything/learn-anything/wiki/White-Paper).
 

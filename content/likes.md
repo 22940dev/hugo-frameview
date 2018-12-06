@@ -9,13 +9,13 @@ weight = "6"
 
 ## Animals
 
-Becoming conscious of the impact my decisions have on this planet and other living beings and eating only [whole food plant based diet](https://wiki.nikitavoloboev.xyz/health/nutrition/nutrition) has been one of the best decisions I made thus far in my life.
+Becoming conscious of the impact my decisions have on this planet and other living beings and eating only [whole food plant based diet](https://wiki.nikitavoloboev.xyz/health/nutrition) has been one of the best decisions I made thus far in my life.
 
 I think everyone has a choice nowadays of what they can eat and [animal suffering can be avoided](https://medium.com/@nikitavoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl).
 
 ## Sharing
 
-I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing/sharing) I make and I am open about most things I do and like.
+I love [sharing things](https://wiki.nikitavoloboev.xyz/sharing) I make and I am open about most things I do and like.
 
 I share most of the code I write [open source](https://wiki.nikitavoloboev.xyz/sharing/my-github) for everyone to use and reuse as they like.
 
@@ -64,7 +64,7 @@ Fortunately there are [decentralized alternatives](https://github.com/nikitavolo
 
 I love using only what I need and nothing else. If something brings no value to my life, I get rid of it.
 
-I love [focusing on solving problems](https://wiki.nikitavoloboev.xyz/focusing/focusing) that matter to me. Cutting out any noise or distractions in the process.
+I love [focusing on solving problems](https://wiki.nikitavoloboev.xyz/focusing) that matter to me. Cutting out any noise or distractions in the process.
 
 ## Quotes
 
