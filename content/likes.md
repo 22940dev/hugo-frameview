@@ -29,7 +29,7 @@ I love listening to [new and interesting music](https://open.spotify.com/user/ni
 
 ## Photographs
 
-I love [making photographs](https://www.instagram.com/nikitavoloboev) and collecting [beautiful pictures](https://instagram.com/prettiways).
+I love [making photographs](https://www.instagram.com/nikitavoloboev) and collecting [beautiful pictures](https://www.instagram.com/prettiways/).
 
 ## Great Software
 
