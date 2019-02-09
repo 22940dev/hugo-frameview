@@ -14,4 +14,4 @@ I currently live and [make things](../projects) in Den Bosch, Netherlands.
 - [dotGo](https://www.dotgo.eu/) in Paris (March 25)
 - [DATA TERRA NEMO](https://dtn.is/) in Berlin (May 17, 18)
 
-Say 👋 if you are around.
+[Say 👋](https://twitter.com/nikitavoloboev) if you are around.
