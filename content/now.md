@@ -7,7 +7,7 @@ menu = "main"
 weight = "7"
 +++
 
-I currently live in Den Bosch, Netherlands building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
+I currently live and [make things](../projects) in Den Bosch, Netherlands.
 
 ## Future events
 
