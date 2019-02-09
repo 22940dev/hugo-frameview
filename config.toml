@@ -5,7 +5,7 @@ theme = "minimal"
 
 [params]
     author = "Nikita Voloboev"
-    description = "Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. <br/>Building [Learn Anything](https://learn-anything.xyz/) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github)."
+    description = "Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. <br/>Building [Learn Anything](https://learn-anything.xyz/), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github)."
     copyright = " "
     accent = "#E34E47"
     showBorder = true
@@ -30,17 +30,17 @@ theme = "minimal"
 [[menu.main]]
     url = "https://github.com/nikitavoloboev/ama#readme"
     name = "AMA"
-    weight = 7
+    weight = 8
 
 [[menu.main]]
     url = "/cv.pdf"
     name = "CV"
-    weight = 8
+    weight = 9
 
 [[menu.main]]
     url = "http://patreon.com/nikitavoloboev"
     name = "♥"
-    weight = 9
+    weight = 10
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used

@@ -23,6 +23,6 @@ weight = "2"
 
 💛 You can support what I do on [Patreon](http://patreon.com/nikitavoloboev). Thank you.
 
-💬 Feel free to [ask me any question](https://github.com/nikitavoloboev/ama#readme) or [send a message](mailto:nikita.voloboev@gmail.com) if you want to make a new friend. [PGP key](https://keybase.io/nikitavoloboev).
+💬 Feel free to [ask me anything](https://github.com/nikitavoloboev/ama#readme) or [send a message](mailto:nikita.voloboev@gmail.com) if you want to make a new friend. [PGP key](https://keybase.io/nikitavoloboev).
 
-☕ I love meeting new people. Currently I reside in Amsterdam if you want to grab a coffee and talk.
+☕ I love meeting new people. Check my [Now page](../now) to see where I am right now.
