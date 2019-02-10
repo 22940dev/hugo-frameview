@@ -9,7 +9,7 @@ weight = "3"
 
 I am currently making [Learn Anything](https://learn-anything.xyz), [sharing things](https://wiki.nikitavoloboev.xyz/sharing), writing a [wiki](https://wiki.nikitavoloboev.xyz) and [blog](https://medium.com/@nikitavoloboev) and building [ideas](https://trello.com/b/alB1ryRP).
 
-My current and past projects include:
+My present and past projects include:
 
 ## Learn Anything
 
