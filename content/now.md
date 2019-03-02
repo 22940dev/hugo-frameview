@@ -9,6 +9,8 @@ weight = "7"
 
 I currently live and [make things](../projects) in Den Bosch, Netherlands.
 
+I have a [shared calendar](https://calendar.google.com/calendar?cid=c3VybW1pNTAzcm4zMm1lYXRxdjk0Z2VpZmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) of places/events I plan to visit.
+
 ## Future events
 
 - [dotGo](https://www.dotgo.eu/) in Paris (March 25)
