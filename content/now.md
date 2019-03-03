@@ -9,7 +9,7 @@ weight = "7"
 
 I currently live and [make things](../projects) in Den Bosch, Netherlands.
 
-I have a [shared calendar](https://calendar.google.com/calendar?cid=dmIzYW80ZXVjM3NhZW9qMnFhbWJ0bHI1dmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) of places/events I plan to visit.
+I have a [shared calendar](https://calendar.google.com/calendar/embed?src=vb3ao4euc3saeoj2qambtlr5vg%40group.calendar.google.com&ctz=Europe%2FAmsterdam) of places/events I plan to visit.
 
 ## Future events
 
