@@ -13,7 +13,6 @@ I have a [shared calendar](https://calendar.google.com/calendar/embed?src=vb3ao4
 
 ## Future events
 
-- [dotGo](https://www.dotgo.eu/) in Paris (March 25)
 - [DATA TERRA NEMO](https://dtn.is/) in Berlin (May 17, 18)
 
 [Say 👋](https://twitter.com/nikitavoloboev) if you are around.
