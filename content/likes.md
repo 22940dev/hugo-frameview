@@ -234,6 +234,8 @@ If you don't know Alan Watts, I recommend you [check who he is](http://www.alanw
 
 > It’s dark because you are trying too hard. Lightly child, lightly. Learn to do everything lightly. Yes, feel lightly even though you’re feeling deeply. Just lightly let things happen and lightly cope with them. So throw away your baggage and go forward. There are quicksands all about you, sucking at your feet, trying to suck you down into fear and self-pity and despair. That’s why you must walk so lightly. Lightly my darling...
 
+> The meaning of life is just to be alive. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves.
+
 > Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
 
 > These are all just metaphors for something that simply cannot be put into words.
