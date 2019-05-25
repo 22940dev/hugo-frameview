@@ -17,7 +17,7 @@ weight = "2"
 
 🎥 I also make educational [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and share [music playlists](https://open.spotify.com/user/nikitavoloboev).
 
-💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
+💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) so I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
 
 🍀 If you want to know even more about me, you can see [what I like](../likes) and [explore my wiki](https://wiki.nikitavoloboev.xyz) or even [search through it](https://github.com/nikitavoloboev/alfred-my-mind#readme), if you like.
 

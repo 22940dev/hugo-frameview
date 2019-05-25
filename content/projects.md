@@ -46,7 +46,7 @@ Here are some workflows I made that I use myself daily:
 
 I share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and [iOS](https://github.com/nikitavoloboev/my-ios#readme) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles#readme).
 
-And I made a [Telegram group](https://t.me/macOSautomation) to discuss all things automation on macOS/iOS.
+And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things automation on macOS/iOS.
 
 ## Curated lists
 
