@@ -21,7 +21,7 @@ weight = "2"
 
 🍀 If you want to know even more about me, you can see [what I like](../likes) and [explore my wiki](https://wiki.nikitavoloboev.xyz) or even [search through it](https://github.com/nikitavoloboev/alfred-my-mind#readme), if you like.
 
-💛 You can support what I do on [Patreon](http://patreon.com/nikitavoloboev). Thank you.
+💚 You can support what I do on [GitHub](https://github.com/users/nikitavoloboev/sponsorship). Thank you.
 
 💬 Feel free to [ask me anything](https://github.com/nikitavoloboev/ama#readme) or [send a message](mailto:nikita.voloboev@gmail.com) if you want to make a new friend. [PGP key](https://keybase.io/nikitavoloboev).
 
