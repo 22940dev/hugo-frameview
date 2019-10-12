@@ -38,7 +38,7 @@ theme = "minimal"
     weight = 9
 
 [[menu.main]]
-    url = "http://patreon.com/nikitavoloboev"
+    url = "https://github.com/users/nikitavoloboev/sponsorship"
     name = "♥"
     weight = 10
 
