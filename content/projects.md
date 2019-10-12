@@ -13,7 +13,7 @@ My present and past projects include:
 
 ## Learn Anything
 
-[Learn Anything](https://learn-anything.xyz) is an [open source](https://github.com/learn-anything/learn-anything#readme) website to learn any topic as fast as possible.
+[Learn Anything](https://learn-anything.xyz) is an [open source](https://github.com/learn-anything/learn-anything) website to learn any topic as fast as possible.
 
 I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you. A world where everyone knows a programming language and can automate routine and boring things so to not ever do them again.
 
