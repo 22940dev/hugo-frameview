@@ -19,7 +19,7 @@ weight = "2"
 
 💻 I am passionate about [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) so I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
 
-🍀 If you want to know even more about me, you can see [what I like](../likes) and [explore my wiki](https://wiki.nikitavoloboev.xyz) or even [search through it](https://github.com/nikitavoloboev/alfred-my-mind#readme), if you like.
+🐛 If you want to know even more about me, you can see [what I like](../likes) and [explore my wiki](https://wiki.nikitavoloboev.xyz) or even [search through it](https://github.com/nikitavoloboev/alfred-my-mind#readme), if you like.
 
 💚 You can support what I do on [GitHub](https://github.com/users/nikitavoloboev/sponsorship). Thank you.
 
