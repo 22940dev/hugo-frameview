@@ -23,7 +23,7 @@ The most awesome thing about this project is that it is run by a community of aw
 
 ## Alfred Workflows
 
-I love programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows).
+I love programming in Go and making [Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme).
 
 Here are some workflows I made that I use myself daily:
 
@@ -31,7 +31,7 @@ Here are some workflows I made that I use myself daily:
 - [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create web submissions (Stack exchange, Reddit and more).
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search through all topics in [Learn Anything](https://learn-anything.xyz).
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my bookmarks and notes.
-- [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome) in seconds.
+- [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all [awesome lists](https://github.com/sindresorhus/awesome#readme) in seconds.
 - [Small workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
 
 ## CLI tools
@@ -50,9 +50,9 @@ And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to d
 
 ## Curated lists
 
-I mostly focus on curating and maintaining the various [curated lists](https://github.com/learn-anything/curated-lists) which include things like [books](https://github.com/learn-anything/books), [courses](https://github.com/learn-anything/courses), [blogs](https://github.com/learn-anything/blogs) and more.
+I mostly focus on curating and maintaining the various [curated lists](https://github.com/learn-anything/curated-lists#readme) which include things like [books](https://github.com/learn-anything/books#readme), [courses](https://github.com/learn-anything/courses#readme), [blogs](https://github.com/learn-anything/blogs#readme) and more.
 
-And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting) and a list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work).
+And I made a curated list of [privacy respecting tools and services](https://github.com/nikitavoloboev/privacy-respecting#readme) and a list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
 
 ## Other things
 
