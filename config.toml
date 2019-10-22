@@ -38,7 +38,7 @@ theme = "minimal"
     weight = 9
 
 [[menu.main]]
-    url = "https://github.com/users/nikitavoloboev/sponsorship"
+    url = "https://github.com/sponsors/nikitavoloboev"
     name = "♥"
     weight = 10
 
