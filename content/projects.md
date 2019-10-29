@@ -15,11 +15,7 @@ My present and past projects include:
 
 [Learn Anything](https://learn-anything.xyz) is an [open source](https://github.com/learn-anything/learn-anything) website to learn any topic as fast as possible.
 
-I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you. A world where everyone knows a programming language and can automate routine and boring things so to not ever do them again.
-
-A world where knowledge and knowledge sharing is respected and encouraged and everyone can leverage on the knowledge of all the people of the world.
-
-The most awesome thing about this project is that it is run by a community of awesome people and [anyone can contribute](https://github.com/learn-anything/learn-anything/blob/master/CONTRIBUTING.md) to making it better for everyone.
+The [end goal](https://docs.learn-anything.org/roadmap) is to create a machine learning system that can craft personalized study plans for learning any topic and an open knowledge graph anyone can explore and extend.
 
 ## Alfred Workflows
 
