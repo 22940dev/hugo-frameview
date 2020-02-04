@@ -15,7 +15,7 @@ My present and past projects include:
 
 [Learn Anything](https://learn-anything.xyz) is an [open source](https://github.com/learn-anything/learn-anything) website to learn any topic as fast as possible.
 
-The [end goal](https://docs.learn-anything.org/roadmap) is to create a machine learning system that can craft personalized study plans for learning any topic and an open knowledge graph anyone can explore and extend.
+The [end goal](https://docs.learn-anything.xyz/roadmap) is to create a machine learning system that can craft personalized study plans for learning any topic and an open knowledge graph anyone can explore and extend.
 
 ## Alfred Workflows
 
