@@ -236,6 +236,8 @@ If you don't know Alan Watts, I recommend you [check who he is](http://www.alanw
 
 > The meaning of life is just to be alive. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves.
 
+> A person who thinks all the time has nothing to think about except thoughts. So he loses touch with reality, and lives in a world of illusion.
+
 > Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
 
 > These are all just metaphors for something that simply cannot be put into words.
