@@ -52,4 +52,4 @@ And I made a curated list of [privacy respecting tools and services](https://git
 
 ## Other things
 
-I am continuously [learning](https://trello.com/b/cu32qF3q), [writing](https://wiki.nikitavoloboev.xyz/sharing/my-articles), reading [books](https://wiki.nikitavoloboev.xyz/books) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers), [making videos](https://wiki.nikitavoloboev.xyz/sharing/my-youtube) and [writing code](https://wiki.nikitavoloboev.xyz/sharing/my-github).
+I am continuously [learning](https://www.notion.so/Learn-05c0eac7be904e0da89cd8a3bf7ab509), [writing](https://wiki.nikitavoloboev.xyz/sharing/my-articles), reading [books](https://wiki.nikitavoloboev.xyz/books) and [research papers](https://wiki.nikitavoloboev.xyz/research-papers), [making videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos) and [writing code](https://wiki.nikitavoloboev.xyz/sharing/my-github).
