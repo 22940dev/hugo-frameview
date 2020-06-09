@@ -220,6 +220,8 @@ If you don't know Alan Watts, I recommend you [check who he is](http://www.alanw
 
 > Only when you master a tool, do you learn when not to use it.
 
+> You keep on learning and learning, and pretty soon you learn something no one has learned before.
+
 > You are life having a human experience, not a human having a life experience.
 
 > People have a lot invested in this ride.
