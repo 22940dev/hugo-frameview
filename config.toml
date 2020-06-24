@@ -28,7 +28,7 @@ theme = "minimal"
     weight = 5
 
 [[menu.main]]
-    url = "https://github.com/nikitavoloboev/ama#readme"
+    url = "https://github.com/nikitavoloboev/ama"
     name = "AMA"
     weight = 8
 
