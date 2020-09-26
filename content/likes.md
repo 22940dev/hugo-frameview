@@ -35,12 +35,12 @@ I love [making photographs](https://www.instagram.com/nikitavoloboev) and collec
 
 Most notably:
 
-- [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred)
-- [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner)
-- [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code)
-- [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro)
+- [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred)
+- [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner)
+- [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code)
+- [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro)
 - [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2do)
-- [Nix](https://wiki.nikitavoloboev.xyz/package-managers/nix/nix)
+- [Nix](https://wiki.nikitavoloboev.xyz/package-managers/nix)
 
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
 
@@ -93,6 +93,8 @@ If you don't know Alan Watts, I recommend you [check who he is](http://www.alanw
 > Happiness is the absence of striving for happiness.
 
 > Forgive others not because they deserve forgiveness, but because you deserve peace.
+
+> To understand is to forgive.
 
 > The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else’s highlight reel.
 
