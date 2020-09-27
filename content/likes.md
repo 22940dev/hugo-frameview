@@ -35,11 +35,11 @@ I love [making photographs](https://www.instagram.com/nikitavoloboev) and collec
 
 Most notably:
 
-- [Alfred](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred)
-- [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner)
+- [Alfred](https://wiki.nikitavoloboev.xyz/macos/macos-apps/alfred)
+- [Karabiner](https://wiki.nikitavoloboev.xyz/macos/macos-apps/karabiner)
 - [VS Code](https://wiki.nikitavoloboev.xyz/text-editors/vs-code)
-- [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro)
-- [2Do](https://wiki.nikitavoloboev.xyz/macOS/apps/2do)
+- [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro)
+- [2Do](https://wiki.nikitavoloboev.xyz/macos/macos-apps/2do)
 - [Nix](https://wiki.nikitavoloboev.xyz/package-managers/nix)
 
 But there is [many more](https://github.com/nikitavoloboev/my-mac-os).
