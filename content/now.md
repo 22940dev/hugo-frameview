@@ -7,7 +7,7 @@ menu = "main"
 weight = "7"
 +++
 
-[Making things](../projects) & completing my [goals](https://wiki.nikitavoloboev.xyz/focusing/goals) to live in a [better future](https://wiki.nikitavoloboev.xyz/future).
+[Building ideas](../projects) & completing my [goals](https://wiki.nikitavoloboev.xyz/focusing/goals) to live a [better future](https://wiki.nikitavoloboev.xyz/future).
 
 Writing monthly [look backs](https://wiki.nikitavoloboev.xyz/looking-back) reflecting on what I worked & thought about.
 
