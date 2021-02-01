@@ -23,6 +23,6 @@ weight = "2"
 
 ♥️ You can support what I do on [GitHub](https://github.com/sponsors/nikitavoloboev). Thank you.
 
-💬 Feel free to [ask me anything](https://github.com/nikitavoloboev/ama) or [send a message](mailto:nikita.voloboev@gmail.com) if you want to make a new friend. [PGP key](https://keybase.io/nikitavoloboev).
+💬 Feel free to [ask me anything](https://github.com/nikitavoloboev/ama) or [send me message/tweet](https://twitter.com/nikitavoloboev).
 
 ☕ I love meeting new people. Check my [Now page](../now) to see where I am right now.

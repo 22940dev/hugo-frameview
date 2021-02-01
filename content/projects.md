@@ -7,7 +7,7 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently making [Learn Anything](https://learn-anything.xyz) & [Dendron](https://dendron.so). [Sharing things](https://wiki.nikitavoloboev.xyz/sharing), writing a [wiki](https://wiki.nikitavoloboev.xyz) and [blog](https://medium.com/@nikitavoloboev) and building [ideas](https://wiki.nikitavoloboev.xyz/ideas).
+I am currently making [Learn Anything](https://learn-anything.xyz) & [Dendron](https://dendron.so). [Sharing things](https://wiki.nikitavoloboev.xyz/sharing), writing a [wiki](https://wiki.nikitavoloboev.xyz) and building [ideas](https://wiki.nikitavoloboev.xyz/ideas).
 
 My present and past projects include:
 
@@ -19,7 +19,7 @@ The [end goal](https://docs.learn-anything.xyz/roadmap) is to create a machine l
 
 ## Dendron
 
-[Dendron](https://dendron.so/) is an hierarchical note taking tool that grows as you do. It's built on top of VSCode as an extension and creates published web pages for all the markdown files.
+[Dendron](https://dendron.so/) is an [open-source](https://github.com/dendronhq/dendron), local-first, markdown-based, note-taking tool built on top of VSCode that lets you publish content on the web.
 
 ## Alfred Workflows
 

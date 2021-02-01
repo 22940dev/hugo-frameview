@@ -58,7 +58,7 @@ I love [focusing on solving problems](https://wiki.nikitavoloboev.xyz/focusing) 
 
 ## Better future
 
-I firmly believe and am excited for the [kind of future we can have](https://wiki.nikitavoloboev.xyz/future). More rights to people, no more oppressive regimes, no more centralized platforms, [better privacy for all](https://github.com/nikitavoloboev/privacy-respecting).
+I am excited for the [incredible future we can have](https://wiki.nikitavoloboev.xyz/future) if we work towards it. More rights to people, no more oppressive regimes, no more centralized platforms, [better privacy for all](https://github.com/nikitavoloboev/privacy-respecting).
 
 ## Quotes
 
