@@ -21,7 +21,7 @@ I share most of the code I write [open source](https://wiki.nikitavoloboev.xyz/s
 
 ## Writing
 
-I share my knowledge and experiences by writing about it in my [blog](https://medium.com/@nikitavoloboev) and I maintain my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
+I share my knowledge and experiences by writing about it in my own [personal wiki](https://wiki.nikitavoloboev.xyz) in the spirit of continuous learning.
 
 ## Music
 
@@ -48,23 +48,17 @@ I hope to build my own app or tool that will join this list soon too.
 
 ## Automation
 
-I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this journey to a **perfect** setup.
-
-Of course automation is not all and everything that I do but it greatly increases my satisfaction and happiness as I love focusing on solving problems and making new and interesting things rather than repeating myself over and over again.
-
-## Freedom
-
-I am a firm believer that everyone should have their opinion heard in the world. I think the current trend of monopolizing all communication and all human activity under few companies is frightening.
-
-I know from personal experience just how absurd it is to give away all your data and communication to some entity who then can manage what to do with it. Managing what people should see and what they can talk about. Overviewing every move you make and every word you type or say on their **platform**.
-
-Fortunately there are [decentralized alternatives](https://github.com/nikitavoloboev/privacy-respecting) out there where no one restricts what you can send or say and no one is watching over what you do and write at every step. Where **you** are in control of your data. [Scuttlebutt](https://www.scuttlebutt.nz), [Matrix](https://matrix.org) or [Manyverse](https://www.manyver.se/) are some alternatives.
+I am a bit obsessed with automation and productivity. And I like to share all the interesting things I learn on this [journey to a perfect setup](https://wiki.nikitavoloboev.xyz/sharing/my-workflow).
 
 ## Simplicity
 
 I love [using only what I need](https://wiki.nikitavoloboev.xyz/minimalism) and nothing else. If something brings no value to my life, I get rid of it.
 
 I love [focusing on solving problems](https://wiki.nikitavoloboev.xyz/focusing) that matter to me. Cutting out any noise or distractions in the process.
+
+## Better future
+
+I firmly believe and am excited for the [kind of future we can have](https://wiki.nikitavoloboev.xyz/future). More rights to people, no more oppressive regimes, no more centralized platforms, [better privacy for all](https://github.com/nikitavoloboev/privacy-respecting).
 
 ## Quotes
 

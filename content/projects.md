@@ -7,7 +7,7 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently making [Learn Anything](https://learn-anything.xyz) & [Dendron](https://dendron.so), [sharing things](https://wiki.nikitavoloboev.xyz/sharing), writing a [wiki](https://wiki.nikitavoloboev.xyz) and [blog](https://medium.com/@nikitavoloboev) and building [ideas](https://wiki.nikitavoloboev.xyz/ideas).
+I am currently making [Learn Anything](https://learn-anything.xyz) & [Dendron](https://dendron.so). [Sharing things](https://wiki.nikitavoloboev.xyz/sharing), writing a [wiki](https://wiki.nikitavoloboev.xyz) and [blog](https://medium.com/@nikitavoloboev) and building [ideas](https://wiki.nikitavoloboev.xyz/ideas).
 
 My present and past projects include:
 
@@ -16,6 +16,10 @@ My present and past projects include:
 [Learn Anything](https://learn-anything.xyz) is an [open source](https://github.com/learn-anything/learn-anything) website to learn any topic as fast as possible.
 
 The [end goal](https://docs.learn-anything.xyz/roadmap) is to create a machine learning system that can craft personalized study plans for learning any topic and an open knowledge graph anyone can explore and extend.
+
+## Dendron
+
+[Dendron](https://dendron.so/) is an hierarchical note taking tool that grows as you do. It's built on top of VSCode as an extension and creates published web pages for all the markdown files.
 
 ## Alfred Workflows
 
@@ -40,7 +44,7 @@ Here are some workflows I made that I use myself daily:
 
 ## My macOS and iOS workflow
 
-I share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles).
+I share fully my [macOS](https://github.com/nikitavoloboev/my-mac-os) and [iOS](https://github.com/nikitavoloboev/my-ios) personal setups. Where I share which applications and tools I use and love. I also share my [dotfiles](https://github.com/nikitavoloboev/dotfiles). I [describe my workflow more extensively](https://wiki.nikitavoloboev.xyz/sharing/my-workflow) in my wiki.
 
 And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things automation on macOS/iOS.
 
