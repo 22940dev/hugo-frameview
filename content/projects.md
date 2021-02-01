@@ -7,7 +7,7 @@ menu = "main"
 weight = "3"
 +++
 
-I am currently making [Learn Anything](https://learn-anything.xyz), [sharing things](https://wiki.nikitavoloboev.xyz/sharing), writing a [wiki](https://wiki.nikitavoloboev.xyz) and [blog](https://medium.com/@nikitavoloboev) and building [ideas](https://wiki.nikitavoloboev.xyz/ideas).
+I am currently making [Learn Anything](https://learn-anything.xyz) & [Dendron](https://dendron.so), [sharing things](https://wiki.nikitavoloboev.xyz/sharing), writing a [wiki](https://wiki.nikitavoloboev.xyz) and [blog](https://medium.com/@nikitavoloboev) and building [ideas](https://wiki.nikitavoloboev.xyz/ideas).
 
 My present and past projects include:
 
