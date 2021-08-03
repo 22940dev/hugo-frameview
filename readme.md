@@ -1,6 +1,6 @@
 # [Me and Mine 🏡](https://hugo-viewframe.netlify.app)
 
-![alt text](Nikita Voloboev.png)
+![alt text](/nikitavoloboev.png)
 
 
 
