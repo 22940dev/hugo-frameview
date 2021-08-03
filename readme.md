@@ -1,5 +1,11 @@
-# [My Personal Home on the Internet 🏡](https://www.nikitavoloboev.xyz/)
+# [Me and Mine 🏡](https://hugo-viewframe.netlify.app)
 
-The website is statically generated with [Hugo](https://github.com/gohugoio/hugo). It uses a customized [Minimal](https://github.com/calintat/minimal) theme and is hosted using [Netlify](https://www.netlify.com).
+![alt text](image.jpg)
 
-[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+
+
+
+The website is statically generated with [Hugo](https://github.com/gohugoio/hugo). 
+It uses a customized [Minimal](https://github.com/calintat/minimal) theme. 
+Much credit is due [nikki](https://github.com/nikki)
+[![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
