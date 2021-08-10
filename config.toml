@@ -1,6 +1,6 @@
-baseURL = "https://nikitavoloboev.xyz"
+baseURL = "https://hugo-viewframe.netlify.app"
 languageCode = "en-us"
-title = "Nikita Voloboev"
+title = "22940dev"
 theme = "minimal"
 
 [params]
